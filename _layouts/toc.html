@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+  <head>
+    {% include head.html %}
+    {% include css.html %}
+    <link href="{{ 'assets/bootstrap-toc.min.css' | relative_url }}" rel="stylesheet">
+    {% include scripts.html %}
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script> 
+    <script src="{{ 'assets/bootstrap-toc.min.js' | relative_url }}"></script>
+    {% include favicons.html %}
+    {% include GA.html %}
+  </head>
+  <body>
+
+    {% include navbar.html %}
+
+    <main id="content" role="main" class="container" style="padding-bottom: 3rem;">
+      <div class="container maincontent">
+        <div class="row justify-content-center align-items-start gx-5 mt-2">
+
+          <div class="col-12 col-md-10 col-lg-11">
+            <h1>{{ page.title | smartify}}</h1>
+            <p style="font-size: 0.95rem; font-style: italic; margin-bottom: 2rem;">Last updated: {{ page.date | date: "%D" }}</p>
+          </div>
+
+          <div class="col-12 col-md-10 col-lg-3 sticky-top small-screen-not-sticky" style="top: 1.125rem;">
+              <nav id="toc">
+              </nav>
+          </div>
+          <div class="col-12 col-md-10 col-lg-8">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!--
+    <footer class="container maincontent">
+      <div class="row justify-content-center" align-items-start gx-5 mt-2">
+      <div class="col-12 col-lg-10">
+        {% include footer.html %}
+      </div>
+      </div>
+    </footer>
+    -->
+
+    <script>
+      $(function () {
+        var navSelector = "#toc";
+        var $myNav = $(navSelector);
+        Toc.init({
+          $nav: $myNav,
+          $scope: $("h2"),
+        });
+      });
+    </script>
+
+  </body>
+</html>

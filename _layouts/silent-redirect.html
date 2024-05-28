@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>
       {%- if page.title -%}
-        {{ page.title | smartify }} · {{ site.title | smartify }}
+        {{ page.title | smartify }} · {{ site.course_number }}: {{ site.course_title | smartify }}
       {%- else -%}
-        {{ "Redirecting&hellip;" | smartify }} · {{ site.title | smartify }}
+        {{ "Redirecting&hellip;" | smartify }} · {{ site.course_number }}: {{ site.course_title | smartify }}
       {%- endif -%}
     </title>
     <link rel="canonical" href="{{ page.redirect_to }}" />

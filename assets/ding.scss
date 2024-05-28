@@ -39,6 +39,7 @@ $navbar-light-color: rgba($black, .7);
 $navbar-light-active-color: rgba($dingred, .8);
 $navbar-light-toggler-border-color: rgba($black, .4);
 $navbar-light-brand-color: $black;
+$navbar-brand-font-size: 1.1rem;
 
 $font-weight-light: 400;
 $font-weight-normal: 500;
@@ -52,7 +53,7 @@ $lead-font-size: (
 );
 
 $h1-font-size: (
-  $font-size-base * 1.15
+  $font-size-base * 1.2
 );
 
 $h2-font-size: (
@@ -165,7 +166,7 @@ $gutters: (
 
 [data-bs-theme="dark"] {
   .navbar-brand, .nav-link {
-    color: #fff;
+    color: #{$body-color-dark};
   }
 
   .nav-link.active, .nav-link.show {
@@ -186,6 +187,20 @@ $gutters: (
   }
 }
 
+[data-bs-theme="light"] {
+  .navbar-brand, .nav-link {
+    color: #{$black};
+  }
+
+  .nav-link.active, .nav-link.show {
+    color: #{$dingred};
+  }
+}
+
+nav[data-toggle="toc"] .nav .active .nav {
+  display: none;
+}
+
 .card-body p {
   margin-bottom: 0rem;
   line-height: 1.65;
@@ -196,16 +211,23 @@ $gutters: (
 }
 
 h1, .h1 {
-  margin-top: 0.875rem;
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
 }
 
 h2, .h2 {
   font-weight: 600;
   text-transform: uppercase;
+  margin-top: 2rem;
 }
 
-h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2 {
-  margin-top: 0.625rem;
+h3, .h3 {
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+
+h6, .h6, h5, .h5, h4, .h4, {
+  margin-top: 1rem;
 }
 
 li {
@@ -221,8 +243,19 @@ li {
   max-width: 800px;
 }
 
+.small-screen-not-sticky {
+  position: static;
+  margin-bottom: 2.25rem;
+}
+
 @include media-breakpoint-up(md) {
   .maincontent {
     max-width: 975px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .small-screen-not-sticky {
+    position: sticky;
   }
 }

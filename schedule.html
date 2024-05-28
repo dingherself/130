@@ -1,0 +1,74 @@
+---
+layout: table
+title: Schedule
+group: navigation
+order: 10
+date: 2024-05-27
+---
+
+<h1>Schedule</h1>
+
+<p class="mb-3" style="font-size: 0.95rem; font-style: italic;">Last updated: {{ page.date | date: "%D" }}</p>
+
+<div class="table-responsive">
+  <table class="table" id="scheduleTable">
+    {% for row in site.data.schedule %}
+      {% if forloop.first %}
+        <thead>
+            <tr>
+            {% for pair in row %}
+              <th scope="col">{{ pair[0] }}</th>
+            {% endfor %}
+            </tr>
+          </thead>
+        {% endif %}
+
+        {% tablerow pair in row %}
+          {{ pair[1] }}
+        {% endtablerow %}
+    {% endfor %}
+  </table>
+
+<script>
+  var groupColumn = 1;
+  new DataTable('#scheduleTable', {
+    responsive: true,
+    paging: false,
+    columnDefs: [
+      {
+        targets: 0,
+        render: DataTable.render.datetime('M/D (dd)'),
+        className: 'dt-head-left dt-body-left'
+      },
+      {
+        targets: -1,
+        className: 'dt-head-left dt-body-left'
+      },
+      {
+        targets: groupColumn,
+        visible: false
+      }
+    ],
+    drawCallback: function (settings) {
+        var api = this.api();
+        var rows = api.rows({ page: 'current' }).nodes();
+        var last = null;
+ 
+        api.column(groupColumn, { page: 'current' })
+            .data()
+            .each(function (group, i) {
+                if (last !== group) {
+                    $(rows)
+                        .eq(i)
+                        .before(
+                            '<tr class="group""><td colspan="5"><strong>' +
+                                group +
+                                '</strong></td></tr>'
+                        );
+ 
+                    last = group;
+                }
+            });
+    }
+  });
+</script>

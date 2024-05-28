@@ -11,13 +11,14 @@ kramdown:
 permalink:      pretty
 
 # Server
-source:         "."
+source:            "."
 destination:    ./_gh_pages
-host:           0.0.0.0
-port:           9001
-baseurl:        ""
-url:            "https://130.dingthemself.com"
+host:               0.0.0.0
+port:              9001
+baseurl:         ""
+url:                 "https://130.dingthemself.com"
 encoding:       UTF-8
+timezone:       America/Phoenix
 exclude:
   - .git/
   - .github/
@@ -41,15 +42,24 @@ exclude:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-toc
 
-# Social
-title:              "Phil 130: Sex, Gender, and Love"
+sass:
+    sass_dir: _sass
+    style: compressed
+
+# Course
+semester:              "Fall 2024"
+course_number:  "Phil 130"
+course_title:         "Sex, Gender, and Love"
 description:        "Course website for Phil 130: Sex, Gender, and Love at the University of Arizona"
-#twitter:            getbootstrap
-authors:            "Ding"
-#social_image_path:  /assets/brand/bootstrap-social.png
-#social_logo_path:   /assets/brand/bootstrap-social-logo.png
+instructor:            "Ding"
+instructor_website: "https://www.dingherself.com"
+email:                   "din@arizona.edu"
+office:                   "Social Sciences 138"
+office_hours:       "TBD"
+meeting_time:     "TuTh 9:30–10:45am"
+classroom:            "Harvill 102"
+learning_site:       "https://d2l.arizona.edu/d2l/home/1453095"
 
 # Custom variables
 #current_version:      4.0.0
@@ -76,7 +86,3 @@ authors:            "Ding"
 #  jquery_hash:      "sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
 #  popper:           "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
 #  popper_hash:      "sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-
-toc:
-  min_level:        2
-  max_level:        4
