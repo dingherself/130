@@ -19,7 +19,7 @@ date: 2024-05-27
       var dot = ".";
       var t = "edu";
       var s = " ";
-      document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (my pronouns are <a href='https://apastyle.apa.org/blog/singular-they' target='_blank' rel='noopener noreferrer'>they/them</a> and she/her))<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + u + arr + d + dot + t + "'>" + u + arr + d + dot + t + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
+      document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (my pronouns are <a href='https://apastyle.apa.org/blog/singular-they' target='_blank' rel='noopener noreferrer'>they/them</a> and she/her)<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + u + arr + d + dot + t + "'>" + u + arr + d + dot + t + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
 </script>
 
 ## Course Overview
