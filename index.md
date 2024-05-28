@@ -5,7 +5,7 @@ group: navigation
 order: 1
 ---
 
-<p align="center"><a href="https://webcomicname.com/post/615550458383286272"><img class="img-fluid" src="https://64.media.tumblr.com/824f4191f085d5ce4d399d0f2d5e0fd7/235a3357fa7d461d-f3/s2048x3072/5ba76fe75121dce8cdb285d68a58b824306a9be7.png" alt="Comic strip; alt text follows the image below."></a></p>
+<p style="margin-top: 1.5rem;" align="center"><a href="https://webcomicname.com/post/615550458383286272"><img class="img-fluid" src="https://64.media.tumblr.com/824f4191f085d5ce4d399d0f2d5e0fd7/235a3357fa7d461d-f3/s2048x3072/5ba76fe75121dce8cdb285d68a58b824306a9be7.png" alt="Comic strip; alt text follows the image below."></a></p>
 
 <p style="text-align: right; margin-top: -0.25rem; margin-bottom:1rem; font-size: 0.95rem;"><a data-bs-toggle="collapse" href="#comic" role="button" aria-expanded="false" aria-controls="comic">Alt Text</a> | <a href="https://webcomicname.com/post/615550458383286272" target="_blank" rel="noopener noreferrer">Credit</a></p>
 <div class="collapse" id="comic">
