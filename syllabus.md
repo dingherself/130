@@ -28,7 +28,7 @@ date: 2024-05-27
 
 ## Expected Learning Outcomes
 
-My expectations are, at the conclusion of this course, you will be able to
+Students in Phil 130 will learn to
 
 1. [under construction]
 2. [under construction]
