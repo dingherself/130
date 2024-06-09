@@ -28,13 +28,18 @@ date: 2024-05-27
 
 ## Expected Learning Outcomes
 
-Students in Phil 130 will learn to
+In Phil 130, students will learn to
 
-1. [under construction]
-2. [under construction]
-3. Charitably interpret and critically assess philosophical texts and arguments;
-4. Construct a well-reasoned, original argument that responds to a philosophical issue about sex, gender, and love;
-5. Discuss how philosophical reflection may shed light on contested moral and legal issues in a divided contemporary society such as the United States.
+1. Analyze major conceptual and normative issues about sex, gender, and love;
+2. Charitably interpret and critically assess philosophical texts and arguments;
+3. Construct original, well-reasoned arguments in response to philosophical questions about sex, gender, and love;
+4. Discuss ways in which philosophical analysis and contemporary social justice movements may shed novel light on each other;
+5. Discuss ways in which philosophical reflection may help to clarify and express minority experiences that are otherwise masked by oppressive social structures.
+
+Phil 130 is an Exploring Perspectives–Humanist course with a Diversity \& Equity (U.S. Context) attribute.
+
+- *GE Exploring Perspectives–Humanist*. Students will identify the approaches and methodologies of the humanist perspective, use evidence and/or knowledge generated within the humanist perspective to critically analyze questions, ideas, and/or arguments, and describe contributions of the humanist perspective to finding solutions to global and/or local challenges.
+- *GE Diversity \& Equity Attribute*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society.
 
 ## Course Objectives
 
