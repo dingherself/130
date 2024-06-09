@@ -38,8 +38,8 @@ In Phil 130, students will learn to
 
 Phil 130 is an Exploring Perspectives–Humanist course with a Diversity \& Equity (U.S. Context) attribute.
 
-- *GE Exploring Perspectives–Humanist*. Students will identify the approaches and methodologies of the humanist perspective, use evidence and/or knowledge generated within the humanist perspective to critically analyze questions, ideas, and/or arguments, and describe contributions of the humanist perspective to finding solutions to global and/or local challenges.
-- *GE Diversity \& Equity Attribute*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society.
+- *General Education: Exploring Perspectives–Humanist*. Students will identify the approaches and methodologies of the humanist perspective, use evidence and/or knowledge generated within the humanist perspective to critically analyze questions, ideas, and/or arguments, and describe contributions of the humanist perspective to finding solutions to global and/or local challenges.
+- *General Education: Diversity \& Equity Attribute*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society. Our course will focus on the context of the United States.
 
 ## Course Objectives
 
