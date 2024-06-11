@@ -39,7 +39,7 @@ In Phil 130, students will learn to
 Phil 130 is an Exploring Perspectives–Humanist course with a Diversity \& Equity (U.S. Context) attribute.
 
 - *General Education: Exploring Perspectives–Humanist*. Students will identify the approaches and methodologies of the humanist perspective, use evidence and/or knowledge generated within the humanist perspective to critically analyze questions, ideas, and/or arguments, and describe contributions of the humanist perspective to finding solutions to global and/or local challenges.
-- *General Education: Diversity \& Equity Attribute*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society. Our course will focus on the context of the United States.
+- *General Education: Diversity \& Equity (U.S. Context)*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society. Our course will focus on the context of the United States.
 
 ## Course Objectives
 
@@ -67,7 +67,7 @@ Please email me if there is a reason you can’t come to class, but you *don’t
 
 No late assignments will be accepted, but an extension will ordinarily be granted as long as you (1) have a clear plan for completing the assignment and (2) let me know your plan by email **no later than 6 hours before the deadline** (unless the delay is justified). Likewise, there is no need to show me any kind of documentation.
 
-As an instructor, I always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accom-modate emergencies and other unexpected circumstances, such as physical (including mental) health, child care, family emergencies, and military duty. We can always work something out, but it’s important that you contact me as soon as you can.
+As an instructor, I always appreciate students asking for extensions ahead of time when possible. Make-ups for missed assignments after the fact are generally disfavored, and will be granted only to accommodate emergencies and other unexpected circumstances, such as physical (including mental) health, child care, family emergencies, and military duty. We can always work something out, but it’s important that you contact me as soon as you can.
 
 ## Academic Integrity
 
