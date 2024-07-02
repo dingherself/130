@@ -48,10 +48,10 @@ In Phil 130, students will learn to
 4. Discuss ways in which philosophical analysis and contemporary social justice movements may shed novel light on each other;
 5. Discuss ways in which philosophical reflection may help to clarify and express minority experiences that are otherwise masked by oppressive social structures.
 
-Phil 130 is an Exploring Perspectives–Humanist course with a Diversity \& Equity (U.S. Context) attribute.
+Phil 130 is an Exploring Perspectives–Humanist course with a Diversity & Equity (U.S. Context) attribute.
 
 - *General Education: Exploring Perspectives–Humanist*. Students will identify the approaches and methodologies of the humanist perspective, use evidence and/or knowledge generated within the humanist perspective to critically analyze questions, ideas, and/or arguments, and describe contributions of the humanist perspective to finding solutions to global and/or local challenges.
-- *General Education: Diversity \& Equity (U.S. Context)*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society. Our course will focus on the context of the United States.
+- *General Education: Diversity & Equity (U.S. Context)*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society. Our course will focus on the context of the United States.
 
 ## Course Objectives
 
@@ -189,7 +189,7 @@ Classroom Behavior
 - Avoid starting to pack things up until class is completely over;
 - Listen attentively and avoid distracting or interrupting behavior, such as chatting with the person next to you or checking your phone.
 
-Gender Identity \& Sexual Orientation
+Gender Identity & Sexual Orientation
 
 - Use the pronouns and name you are asked to when you refer to a person, and avvoid assuming a person’s pronouns, gender identity, or sexual orientation based on their appearance, voice, or name;
 - Be careful not to disclose anyone’s gender identity or sexual orientation (i.e., out them) without their permission, even if they are already out in the classroom—it can put lives in danger;
