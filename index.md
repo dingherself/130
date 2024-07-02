@@ -19,6 +19,7 @@ order: 1
 {{ site.course_number }}, {{ site.semester | smartify }}\
 {{ site.meeting_time }}, {{ site.classroom | smartify }}
 
+<div class="col-6 col-md-5 col-lg-4">
 <script language="JavaScript" type="text/javascript">
       var u = "din";
       var arr = "@";
@@ -28,6 +29,21 @@ order: 1
       var s = " ";
       document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + u + arr + d + dot + t + "'>" + u + arr + d + dot + t + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
 </script>
+<noscript><p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (my pronouns are <a href='https://apastyle.apa.org/blog/singular-they' target='_blank' rel='noopener noreferrer'>they/them</a> and she/her)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br /></p></noscript>
+</div>
+
+<div class="col-6 col-md-5 col-lg-4">
+<script language="JavaScript" type="text/javascript">
+      var r = "ryanellishauger";
+      var arr = "@";
+      var d = "arizona";
+      var dot = ".";
+      var t = "edu";
+      var s = " ";
+      document.write("<p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + r + arr + d + dot + t + "'>" + r + arr + d + dot + t + "</a><br /><strong>Office</strong>: Social Sciences 138<br /><strong>Office hours</strong>: By appointment<br />" + "</p>");
+</script>
+<noscript><p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: Social Sciences 138<br /><strong>Office hours</strong>: By appointment<br /></p></noscript>
+</div>
 
 What is sex? Is it a mere accident that the English term "sex" refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
 

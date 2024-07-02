@@ -30,7 +30,7 @@ date: 2024-05-27
       var dot = ".";
       var t = "edu";
       var s = " ";
-      document.write("<p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + r + arr + d + dot + t + "'>" + u + arr + d + dot + t + "</a><br /><strong>Office</strong>: Social Sciences 138<br /><strong>Office hours</strong>: By appointment<br />" + "</p>");
+      document.write("<p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + r + arr + d + dot + t + "'>" + r + arr + d + dot + t + "</a><br /><strong>Office</strong>: Social Sciences 138<br /><strong>Office hours</strong>: By appointment<br />" + "</p>");
 </script>
 <noscript><p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: Social Sciences 138<br /><strong>Office hours</strong>: By appointment<br /></p></noscript>
 
