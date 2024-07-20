@@ -69,6 +69,19 @@ date: 2024-05-27
                     last = group;
                 }
             });
+    },
+    layout: {
+        topStart: {
+          buttons: [
+                {
+                    extend: 'pdfHtml5',
+                    text: 'Save as PDF',
+                    filename: '{{ site.course_number }} Schedule',
+                    messageTop: 'Instructor: {{ site.instructor }} ({{ site.email }})',
+                    messageBottom: 'Last updated: {{ page.date | date: "%D" }}'
+                    }
+            ]
+        }
     }
   });
 </script>
