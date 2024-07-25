@@ -19,33 +19,37 @@ order: 1
 {{ site.course_number }}, {{ site.semester | smartify }}\
 {{ site.meeting_time }}, {{ site.classroom | smartify }}
 
+{% if site.ta_title %}
 <div class="row no-gutters gx-0">
   <div class="col-12 col-md-6">
+{ % endif %}
     <script language="JavaScript" type="text/javascript">
-          var u = "din";
-          var arr = "@";
-          var d = "arizona";
-          var dot = ".";
-          var t = "edu";
-          var s = " ";
-          document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + u + arr + d + dot + t + "'>" + u + arr + d + dot + t + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
+      var g = "edu";
+      var o = "arizona";
+      var c = ".";
+      var a = "din";
+      var t = " ";
+      var s = "@";
+      document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + a + s + o + c + g + "'>" + a + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
     </script>
-    <noscript><p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (my pronouns are <a href='https://apastyle.apa.org/blog/singular-they' target='_blank' rel='noopener noreferrer'>they/them</a> and she/her)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br /></p></noscript>
+    <noscript><p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br /></p></noscript>
+{% if site.ta_title %}
   </div>
 
   <div class="col-12 col-md-6">
     <script language="JavaScript" type="text/javascript">
-          var r = "ryanellishauger";
-          var arr = "@";
-          var d = "arizona";
-          var dot = ".";
-          var t = "edu";
-          var s = " ";
-          document.write("<p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:" + s + "<a href='" + "mail" + "to:" + r + arr + d + dot + t + "'>" + r + arr + d + dot + t + "</a><br /><strong>Office</strong>: Social Sciences 138<br /><strong>Office hours</strong>: By appointment<br />" + "</p>");
+      var g = "edu";
+      var o = "arizona";
+      var c = ".";
+      var i = "{{ site.ta_netid }}";
+      var t = " ";
+      var s = "@";
+      document.write("<p><strong>{{ site.ta_title}}</strong>: {{ site.ta_name | smartify }}<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + i + s + o + c + g + "'>" + i + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.ta_office }}<br /><strong>Office hours</strong>: {{ site.ta_office_hours }}<br />" + "</p>");
     </script>
-    <noscript><p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: Social Sciences 138<br /><strong>Office hours</strong>: By appointment<br /></p></noscript>
+    <noscript><p><strong>Grader</strong>: Ryan Hauger (he/him)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: TBD<br /><strong>Office hours</strong>: By appointment<br /></p></noscript>
   </div>
 </div>
+{% endif %}
 
 What is sex? Is it a mere accident that the English term "sex" refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
 

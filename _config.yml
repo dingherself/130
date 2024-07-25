@@ -61,6 +61,11 @@ office_hours:       "TBD"
 meeting_time:     "T&R 9:30–10:45am"
 classroom:            "Harvill 305"
 learning_site:       "https://d2l.arizona.edu/d2l/home/1453095"
+ta_title: "Grader"
+ta_name: "Ryan Hauger (he/him)"
+ta_netid: "ryanellishauger"
+ta_office: "TBD"
+ta_office_hours: "By appointment"
 
 # Custom variables
 #current_version:      4.0.0
