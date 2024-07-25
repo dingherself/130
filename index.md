@@ -22,7 +22,7 @@ order: 1
 {% if site.ta_title %}
 <div class="row no-gutters gx-0">
   <div class="col-12 col-md-6">
-{ % endif %}
+{% endif %}
     <script language="JavaScript" type="text/javascript">
       var g = "edu";
       var o = "arizona";
