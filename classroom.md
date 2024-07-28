@@ -15,6 +15,6 @@ Here’s an illustration (click for the original):
 
 <p align="center"><a href="{{ site.baseurl }}/assets/map.png" target="_blank"><picture><source type="image/webp" srcset="{{ site.baseurl }}/assets/map.webp"><source type="image/png" srcset="{{ site.baseurl }}/assets/map.png"><img class="img-fluid" src="{{ site.baseurl }}/assets/map.png" alt="Map of the surrounding area"></picture></a></p>
 
-And here’s the view from the southwestern corner (2nd St/Olive Rd):
+And here’s the view from 2nd St/Olive Rd (click for the original):
 
 <p align="center"><a href="{{ site.baseurl }}/assets/building.jpeg" target="_blank"><picture><source type="image/webp" srcset="{{ site.baseurl }}/assets/building.webp"><source type="image/jpeg" srcset="{{ site.baseurl }}/assets/building.jpeg"><img class="img-fluid" src="{{ site.baseurl }}/assets/building.jpeg" alt="Photo indicating the elevator and staircases"></picture></a></p>
