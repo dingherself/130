@@ -16,7 +16,6 @@ order: 17
 - Sally Haslanger, [“Changing the Ideology and Culture of Philosophy: Not by Reason (Alone),”](https://web.mit.edu/~shaslang/papers/HaslangerWomeninPhil07.pdf) *Hypatia: A Journal of Feminist Philosophy* (2008)
 - Cheshire Calhoun, [“The Undergraduate Pipeline Problem,”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/20618157) *Hypatia* (2009)
 - Katrina Hutchison and Fiona Jenkins eds., [*Women in Philosophy: What Needs to Change?*](https://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1093/acprof:oso/9780199325603.001.0001) (New York: Oxford University Press, 2013)
-- Women in Philosophy: What Needs to Change? 
 - Cristan Williams, [“Radical Inclusion: Recounting the Trans Inclusive History of Radical Feminism,”](http://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1215/23289252-3334463) *TSQ: Transgender Studies Quarterly* (2016)
 - Robin Dembroff, [“Cisgender Commonsense and Philosophy’s Transgender Trouble,”](http://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1215/23289252-8553048) *TSQ* (2020)
 - Talia Mae Bettcher, Loren Cannon, Miqqi Alicia Gilbert, and
