@@ -3,10 +3,10 @@ layout: toc
 title: Syllabus
 group: navigation
 order: 5
-date: 2024-07-02
+date: 2024-07-28
 ---
 
-<h2 class="mt-0">Course Information</h2>
+<h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
 
 **{{ site.course_title_full | smartify }}**\
 {{ site.course_number }}, {{ site.semester | smartify }}\
@@ -61,10 +61,20 @@ Phil 130 achieves these learning outcomes by [under construction].
 
 ## Required Texts
 
-You will need to acquire the following texts on your own. There are usually excellent bargains from used bookstores.
+You will need to acquire the following texts on your own. As we will discuss them frequently in class, I will ask you to get hard copies if you can; there are usually excellent bargains from used bookstores.
 
-- Simone de Beauvoir, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier (New York: Vintage Books, 2011). Paperback, 978-0307277787, \$16.00. Edition/translation is important.
-- Plato, *Symposium*, trans. Alexander Nehamas and Paul Woodruff (Indianapolis, IN: Hackett, 1989). Paperback, 978-0872200760, \$11.00. Other editions/translations also work, but make sure you get one with those quirky little page numbers in the left/right margins (they are called “Stephanus numbers” and are consistent across editions). And if you are *really* serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson eds., *Plato: Complete Works* (Indianapolis, IN: Hackett, 1997).
+- Simone de Beauvoir, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier (New York: Vintage Books, 2011). Paperback, 978-0307277787, \$20.00.
+
+<div class="alert alert-light" role="alert">
+  <small>NB: Edition/translation is important.</small>
+</div>
+
+- Plato, *Symposium*, trans. Alexander Nehamas and Paul Woodruff (Indianapolis, IN: Hackett, 1989). Paperback, 978-0872200760, \$11.00.
+
+<div class="alert alert-light" role="alert">
+  <small>NB: Other editions/translations also work, but make sure you get one with those <a href="https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>rally</em> serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</small>
+</div>
+
 - Catharine A. MacKinnon, *Feminism Unmodified: Discourses on Life and Law* (Cambridge, MA: Harvard University Press). Paperback, 978-0674298743, \$25.00.
 
 I will make all other required readings available digitally. If there are any barriers (technical, financial, etc.) that make it difficult for you to access any of the texts, please don’t be afraid to let me know.
@@ -73,10 +83,10 @@ I will make all other required readings available digitally. If there are any ba
 
 Final course grades will be awarded on the following basis:
 
-- Participation: 10%
-- Reading Discussions, or “Shorties”: 10%
-- Midterm and Final Exams: 50%
-- Final Project: 30%
+- [Participation](#participation): 10%
+- Reading discussions, or [“shorties”](#shorties): 20%
+- [Objection-reply essays](#objection-reply-essays): 40%
+- [Final project](#final-project): 30%
 
 All course requirements must be completed in order to pass this class. **An F received on any work due to academic dishonesty is grounds for an F in the course.**
 
@@ -98,37 +108,37 @@ Class participation will make up 10% of your final grade.
 
 ### Shorties
 
-For each of our three modules (sex, gender, and love), you will be asked to pick one class and write a short discussion post responding to that day’s reading(s). These “shorties” are a beloved tradition of Arizona Philosophy. They should ideally be 150–250 words, and definitely no more than 500 words (for reference, this subsection on shorties is 231 words). They are due to the D2L discussion board by **noon the day before the class**.
+For three classes this semester, you will be asked to write a short discussion post responding to that day’s readings. These “shorties” are a beloved tradition of Arizona Philosophy. They should ideally be 150–250 words, and definitely no more than 500 words (for reference, this subsection on shorties is just about 250 words). They are due to the D2L discussion board **by noon the day before the class**. You may choose any three classes to write shorties for, as long as you do at least one of them before the midterm exam and at least one after.
 
 The purpose of the shorties is threefold: they invite you to critically engage with the readings, offer low-stake opportunities for you to learn to do philosophy through writing, and will inform and shape our discussions in class. The shorties are not summaries. Instead, try to raise a question (and consider how the author might wish to answer it!), motivate a puzzle or a worry, defend a view against a worry, connect the reading to an idea or argument we discussed previously, or apply it to a current context, a historical event, or your own lived experience and see how it holds up. If there are two or more readings for a given class, you may choose to either focus on one of them or reflect on a broader theme/common thread.
 
-The best of your three shorties will account for 5% of your final grade, and the other two together another 5%.
+The best of your three shorties will account for 10% of your final grade, and the other two each another 5%.
 
-### Exams
+### Objection-reply essays
 
-There will be a midterm and a final exam. A study guide, including possible essay prompts, will be distributed in advance of each exam. The final exam is comprehensive, but will focus on the second half of the class.
+The tradition of philosophy that now dominates English-speaking philosophy departments (often called “analytic philosophy”) is done characteristically in an *objection-reply style*. In this class, we will practice writing two shorts essays (2–3 pages each) in that style. These essays also offer opportunities to apply what  you have learned in class to current issues in ways that build on but go beyond our discussions. I will circulate prompts and instructions at least two weeks in advance.
 
-The midterm exam is scheduled for **Thursday, February 26** during our regular class period, and the final exam **Tuesday, December 17, 8–10am** (the Registrar picked this time for us, and I’m really sorry). If you have a conflicting final exam, please contact me as soon as you can to arrange for a make-up.
+The better of your two objection-reply essays will make up 25% of your final grade, and the other one another 15%.
 
-The midterm and the final will make up 20% and 30% of your final grade, respectively.
+### Final project
 
-### Final Project
+You are required to complete a final project for this course. This can be either a traditional paper or an equally substantial creative project of your choice---for example, you might want to make a zine, create educational materials on an issue, write a play, design a board game, draft a short story or a piece of public writing, script and produce a video essay, record a mini-album, publish a podcast episode, curate an exhibit, build a website or an application, reenact a story or a moment, imagine an alternative history, illustrate an argument or debate, or profile a community member (really, the sky’s the limit!). My hope is that the flexibility of the format will allow you to further engage with our course materials in a way that suits and reflects your own interests.
 
-[under construction]
+While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own---if this is something you would like to do, please meet with me **by Tuesday, November 19** to discuss your ideas. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Sunday, December 15**.
+
+The final project will make up 30% of your final grade.
 
 ## Honors Credit
 
-If you would like to take this class for honors credit, please contact me as early as possible—and definitely by **Friday, September 13**—to discuss your idea. The honors contract will require you to complete an additional independent project that explores one of our course themes in greater depth. For more information, please consult <https://honors.arizona.edu/academics/honors-contracts>.
+If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Friday, September 13**—to discuss your idea. The honors contract will require you to complete an additional independent project that explores one of our course themes in greater depth. For more information, please consult <https://honors.arizona.edu/academics/honors-contracts>.
 
 ## Excused Absences
 
 Please email me if there is a reason you can’t come to class, but you *don’t* need to show me any kind of documentation. This is an honor system, and I trust you not to abuse it—all I ask is you also be flexible and considerate when you are in a position of power to do so.
 
-The UA policy concerning class attendance, participation, and administrative drops is available at <http://catalog.arizona.edu/policy/class-attendance-participation-and-administrative-drop>.
-
-The UA policy regarding absences for any sincerely held religious belief, observance or practice will be accommodated where reasonable: <http://policy.arizona.edu/human-resources/religious-accommodation-policy>.
-
-Absences preapproved by the UA Dean of Students (or the Dean’s designee) will be honored; see <http://policy.arizona.edu/employmenthuman-resources/attendance>.
+- The UA policy concerning class attendance, participation, and administrative drops is available at <http://catalog.arizona.edu/policy/class-attendance-participation-and-administrative-drop>.
+- The UA policy regarding absences for any sincerely held religious belief, observance or practice will be accommodated where reasonable: <http://policy.arizona.edu/human-resources/religious-accommodation-policy>.
+- Absences preapproved by the UA Dean of Students (or the Dean’s designee) will be honored; see <http://policy.arizona.edu/employmenthuman-resources/attendance>.
 
 ## Late Assignments, Extensions, and Make-Ups
 
@@ -146,7 +156,7 @@ Students are encouraged to share intellectual views and discuss freely the princ
 
 **I view plagiarism as a *very* serious violation of the university’s Code of Academic Integrity, and you should as well.** I strongly encourage you to review this helpful guide prepared by the university library: <https://new.library.arizona.edu/research/citing/plagiarism>. I understand different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for the purposes of our course, please don’t hesitate to ask me.
 
-### Use of Generative AI Tools
+### Use of generative AI tools
 
 I consider it an important component of digital literacy that students appreciate the strengths as well as limitations of generative artificial intelligence (AI) tools such as ChatGPT.
 
@@ -154,7 +164,7 @@ For philosophy in particular, while generative AI tools may be very useful for f
 
 My own policy is to prohibit students from turning in *as their own work* either (1) passages (beyond a single word or phrase) directly generated by generative AI tools, or (2) ideas, arguments, distinctions, claims, analyses, and the like substantially informed by their use of generative AI tools. **The most salient consideration here, in my view, is *misrepresentation*: what I care about is whether a student’s failure to acknowledge the origin of a passage or idea is likely to mislead, that is, to falsely imply that the student has written or come up with it themself.** Contrast this with searching “synonyms for ‘retroactive laws’” on Google and with brainstorming ideas for a paper with a friend. In the Google case, acknowledgment is unnecessary because no one would think the phrase ‘*ex post facto* laws’ is therefore implied to have been invented by the student (but if the student uses a *specific* way of explaining what it means for laws to be *ex post facto*, which they have found through the Google search, then that would require proper citation). In the friend case, acknowledgment is necessary because the friend is a significant reason that the student could think of the paper idea in the first place (this is even more obvious when the friend helps the student to come up with specific ways of putting the idea into words).
 
-### Use of Class Notes and Course Materials
+### Use of class notes and course materials
 
 **Disseminating class notes or course materials beyond the classroom community, such as selling them to other students or to a third party for resale, is strictly prohibited.** Violations to this rule are subject to the Code of Academic Integrity and may result in course sanctions. Additionally, students who use D2L or UA email to sell or buy such notes or course materials are subject to Student Code of Conduct violations for misuse of student email addresses. This misconduct may also constitute copyright infringement.
 
@@ -170,28 +180,28 @@ A valuable local opportunity is the Arizona Feminist Philosophy Graduate Confere
 
 ## Respect, Support, and Care for One Another
 
-### Materials in This Course
+### Materials in this course
 
 Since many of the issues we will cover in this course are not only intellectually but also personally relevant, you might find it difficult to read and discuss certain course materials. I want to acknowledge that. It’s perfectly understandable.
 
 It’s therefore important that we respect, support, and care for one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in the class is disrespectful or otherwise problematic.
 
-### Some Concrete Examples
+### Some concrete examples
 
-Class Discussions
+Class discussions
 
 - Value everyone’s contribution to class discussions;
 - Disagree in a way that takes other people’s ideas seriously and sincerely;
 - Challenge remarks, jokes, and examples that are racist, sexist, heterosexist, cissexist, misogynistic, transmisogynistic, xenophobic, ableist, ageist, classist, etc.;
 - Keep discussions inclusive by avoiding talking to only a few specific people.
 
-Classroom Behavior
+Classroom behavior
 
 - Try to remain quiet if you have to arrive late or leave early;
 - Avoid starting to pack things up until class is completely over;
 - Listen attentively and avoid distracting or interrupting behavior, such as chatting with the person next to you or checking your phone.
 
-Gender Identity & Sexual Orientation
+Gender identity & sexual orientation
 
 - Use the pronouns and name you are asked to when you refer to a person, and avvoid assuming a person’s pronouns, gender identity, or sexual orientation based on their appearance, voice, or name;
 - Be careful not to disclose anyone’s gender identity or sexual orientation (i.e., out them) without their permission, even if they are already out in the classroom—it can put lives in danger;
@@ -200,7 +210,7 @@ Gender Identity & Sexual Orientation
 
 If you feel any aspect of this course makes it difficult for you to participate fully, I want to know. This is *very* important to me.
 
-### University Statements
+### University statements
 
 To foster a positive learning environment, students and instructors have a shared responsibility. We want a safe, welcoming, and inclusive environment where all of us feel comfortable with each other and where we can challenge ourselves to succeed. To that end, our focus is on the tasks at hand and not on extraneous activities (e.g., texting, chatting, reading a newspaper, making phone calls, web surfing, etc.).
 
@@ -216,13 +226,13 @@ Additional information about evacuation plans in buildings across campus are in 
 
 ## Student Support Resources
 
-### Campus Health
+### Campus Health Services
 
 -   Campus Health: <https://health.arizona.edu>
 -   Counseling and Psych Services (CAPS): <https://health.arizona.edu/counseling-psych-services>
 -   Mental Health Tools from CAPS: <https://health.arizona.edu/mental-health-tools>
 
-### Student Assistance
+### Student assistance
 
 -   Dean of Students Office Student Assistance Services: <https://deanofstudents.arizona.edu/support/student-assistance>
 -   Survivor Advocacy: <https://survivoradvocacy.arizona.edu>
@@ -238,7 +248,7 @@ Additional information about evacuation plans in buildings across campus are in 
 -   Think Tank Writing Center: <https://thinktank.arizona.edu/writing-center>
 -   Writing Skills Improvement Program: <https://wsip.arizona.edu>
 
-### Campus Programs
+### Campus programs
 
 -   Campus Pantry: <https://campuspantry.arizona.edu>
 -   UA Childcare Choice Program for Students: <https://lifework.arizona.edu/programs/childcare-choice/student>

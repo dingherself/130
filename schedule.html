@@ -3,7 +3,7 @@ layout: table
 title: Schedule
 group: navigation
 order: 10
-date: 2024-05-27
+date: 2024-07-28
 ---
 
 <h1>Schedule</h1>
@@ -74,12 +74,16 @@ date: 2024-05-27
         topStart: {
           buttons: [
                 {
-                    extend: 'pdfHtml5',
-                    text: 'Save as PDF',
+                    extend: 'print',
+                    text: 'Print-Friendly Version',
+                    autoPrint: false,
                     filename: '{{ site.course_number }} Schedule',
                     messageTop: 'Instructor: {{ site.instructor }} ({{ site.email }})',
-                    messageBottom: 'Last updated: {{ page.date | date: "%D" }}'
+                    messageBottom: 'Last updated: {{ page.date | date: "%D" }}',
+                    exportOptions: {
+                      stripHtml: false
                     }
+                }
             ]
         }
     }
