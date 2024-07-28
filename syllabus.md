@@ -66,13 +66,13 @@ You will need to acquire the following texts on your own. As we will discuss the
 - Simone de Beauvoir, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier (New York: Vintage Books, 2011). Paperback, 978-0307277787, \$20.00.
 
 <div class="alert alert-light" role="alert">
-  <small>NB: Edition/translation is important.</small>
+  <span style="font-size: 0.93rem;">NB: Edition/translation is important.</span>
 </div>
 
 - Plato, *Symposium*, trans. Alexander Nehamas and Paul Woodruff (Indianapolis, IN: Hackett, 1989). Paperback, 978-0872200760, \$11.00.
 
 <div class="alert alert-light" role="alert">
-  <small>NB: Other editions/translations also work, but make sure you get one with those <a href="https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>rally</em> serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</small>
+  <span style="font-size: 0.93rem;">NB: Other editions/translations also work, but make sure you get one with those <a href="https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>rally</em> serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</span>
 </div>
 
 - Catharine A. MacKinnon, *Feminism Unmodified: Discourses on Life and Law* (Cambridge, MA: Harvard University Press). Paperback, 978-0674298743, \$25.00.
