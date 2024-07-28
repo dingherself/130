@@ -1,0 +1,49 @@
+---
+layout: default
+title: Resources
+group: navigation
+order: 17
+---
+
+# Resources
+
+## Potential Items of Interest
+
+- Nancy Tuana, “Reading Philosophy as a Woman,” in [*Woman and the History of Philosophy*](https://archive.org/embed/isbn_9780557781942) (New York: Paragon, 1992)
+- Judith Stacey, [“Is Academic Feminism an Oxymoron?,”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/3175510) *Signs: Journal of Women in Culture and Society* (2000)
+- Sally Haslanger, [“Changing the Ideology and Culture of Philosophy: Not by Reason (Alone),”](https://web.mit.edu/~shaslang/papers/HaslangerWomeninPhil07.pdf) *Hypatia: A Journal of Feminist Philosophy* (2008)
+- Cheshire Calhoun, [“The Undergraduate Pipeline Problem,”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/20618157) *Hypatia* (2009)
+- Robin Dembroff, [“Cisgender Commonsense and Philosophy’s Transgender Trouble,”](http://ezproxy.library.arizona.edu/login?url=https://read.dukeupress.edu/tsq/article-abstract/7/3/399/166955/Cisgender-Commonsense-and-Philosophy-s-Transgender?redirectedFrom=fulltext) *TSQ: Transgender Studies Quarterly* (2020)
+- Talia Mae Bettcher, Loren Cannon, Miqqi Alicia Gilbert, and
+  C. Jacob Hale, [“Trans Philosophy: The Early Years,”](https://www.apaonline.org/resource/collection/B4B9E534-A677-4F29-8DC9-D75A5F16CC55/LGBTQV20n1.pdf#page=2) *APA Newsletter on LGBTQ Issues in Philosophy* (2020)
+
+## Student Support Resources
+
+### Campus Health Services
+
+-   Campus Health: <https://health.arizona.edu>
+-   Counseling and Psych Services (CAPS): <https://health.arizona.edu/counseling-psych-services>
+-   Mental Health Tools from CAPS: <https://health.arizona.edu/mental-health-tools>
+
+### Student assistance
+
+-   Dean of Students Office Student Assistance Services: <https://deanofstudents.arizona.edu/support/student-assistance>
+-   Survivor Advocacy: <https://survivoradvocacy.arizona.edu>
+-   Fostering Success: <https://fosteringsuccess.arizona.edu>
+
+### Advising
+
+-   Find Your Philosophy Advisor: <https://philosophy.arizona.edu/advising>
+-   Become a Philosophy Major: <https://philosophy.arizona.edu/why-study-philosophy>
+
+### Writing
+
+-   Think Tank Writing Center: <https://thinktank.arizona.edu/writing-center>
+-   Writing Skills Improvement Program: <https://wsip.arizona.edu>
+
+### Campus programs
+
+-   Campus Pantry: <https://campuspantry.arizona.edu>
+-   UA Childcare Choice Program for Students: <https://lifework.arizona.edu/programs/childcare-choice/student>
+-   List of Resources from the Office of LGBTQ Affairs: <https://lgbtq.arizona.edu/students>
+-   Disability Resource Center: <https://drc.arizona.edu>

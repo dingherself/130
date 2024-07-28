@@ -1,0 +1,32 @@
+---
+layout: default
+title:  "Handouts"
+group: navigation
+order: 15
+---
+
+<h1>Handouts</h1>
+
+{% if site.posts.size == 0 %}
+  I will post all of my handouts here.
+{% endif %}
+
+{% for post in site.posts reversed %}
+  {% unless post.previous %}
+    <h2>{{ post.module }}</h2>
+    <ul>
+  {% else %}
+    {% capture module %}{{ post.module }}{% endcapture %}
+    {% capture pmodule %}{{ post.previous.module }}{% endcapture %}
+    {% if module != pmodule %}
+      </ul>
+      <h2>{{ post.module }}</h2>
+      <ul>
+    {% endif %}
+  {% endunless %}
+
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

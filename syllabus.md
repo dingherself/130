@@ -224,37 +224,6 @@ For a list of emergency procedures for all types of incidents, please visit the 
 
 Additional information about evacuation plans in buildings across campus are in the process of being available now through the campus map (<https://map.arizona.edu>). If you click on the building, you have access to the safety plan.
 
-## Student Support Resources
-
-### Campus Health Services
-
--   Campus Health: <https://health.arizona.edu>
--   Counseling and Psych Services (CAPS): <https://health.arizona.edu/counseling-psych-services>
--   Mental Health Tools from CAPS: <https://health.arizona.edu/mental-health-tools>
-
-### Student assistance
-
--   Dean of Students Office Student Assistance Services: <https://deanofstudents.arizona.edu/support/student-assistance>
--   Survivor Advocacy: <https://survivoradvocacy.arizona.edu>
--   Fostering Success: <https://fosteringsuccess.arizona.edu>
-
-### Advising
-
--   Find Your Philosophy Advisor: <https://philosophy.arizona.edu/advising>
--   Become a Philosophy Major: <https://philosophy.arizona.edu/why-study-philosophy>
-
-### Writing
-
--   Think Tank Writing Center: <https://thinktank.arizona.edu/writing-center>
--   Writing Skills Improvement Program: <https://wsip.arizona.edu>
-
-### Campus programs
-
--   Campus Pantry: <https://campuspantry.arizona.edu>
--   UA Childcare Choice Program for Students: <https://lifework.arizona.edu/programs/childcare-choice/student>
--   List of Resources from the Office of LGBTQ Affairs: <https://lgbtq.arizona.edu/students>
--   Disability Resource Center: <https://drc.arizona.edu>
-
 ## Accessibility and Accommodations
 
 At the University of Arizona, we strive to make learning experiences as accessible as possible. If you anticipate or experience barriers based on disability or pregnancy, please contact the Disability Resource Center (520-621-3268, <https://drc.arizona.edu/>) to establish reasonable accommodations.
