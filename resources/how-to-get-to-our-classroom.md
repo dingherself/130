@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Classroom
-group: navigation
-order: 20
+title: "How to Get to Our Classroom"
+navtitle: "How to Get to Our Classroom"
+group: resources
+order: 5
 ---
 
 # How to get to our classroom

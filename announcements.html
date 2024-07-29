@@ -1,17 +1,15 @@
 ---
 layout: default
-title:  "Handouts"
+title:  "Announcements"
 group: navigation
-order: 15
+order: 3
 ---
 
-<h1>Handouts</h1>
+<h1>Announcements</h1>
 
-{% unless site.categories.handouts %}
-  <p>Handouts will be posted here.</p>
-{% endunless %}
+<p>I will send announcement to everybody's UofA email address and then post them here for easier reference.</p>
 
-{% for post in site.categories.handouts reversed %}
+{% for post in site.categories.announcements %}
   {% unless post.previous %}
     <h2>{{ post.module }}</h2>
     <ul>
@@ -26,7 +24,7 @@ order: 15
   {% endunless %}
 
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}" style="padding-right: 7px;">{{ post.title }}</a><small class="text-body-secondary">{{ post.date | date: "%a, %b %d, %Y" }}</small>
   </li>
 {% endfor %}
 </ul>

@@ -8,7 +8,7 @@ date: 2024-07-28
 
 <h1>Schedule</h1>
 
-<p class="mb-3" style="font-size: 0.95rem; font-style: italic;">Last updated: {{ page.date | date: "%D" }}</p>
+<p class="mb-3" style="font-size: 0.95rem; font-style: italic;">Last updated: {{ page.date | date: "%a, %b %d, %Y" }}</p>
 
 <div class="table-responsive">
   <table class="table" id="scheduleTable">
@@ -88,4 +88,8 @@ date: 2024-07-28
         }
     }
   });
+
+  $('.buttons-print').each(function() {
+   $(this).removeClass('dt-button btn-secondary buttons-print').addClass('btn-outline-primary btn-sm')
+})
 </script>
