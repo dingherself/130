@@ -1,13 +1,13 @@
 ---
-layout: default
+layout: toc
 title: Resources
 group: navigation
 order: 17
 ---
 
-# Resources
+<h2 class="mt-0">Potential Items of Interest</h2>
 
-## Potential Items of Interest
+### Readings
 
 - Nancy Tuana, “Reading Philosophy as a Woman,” in [*Woman and the History of Philosophy*](https://archive.org/embed/isbn_9780557781942) (New York: Paragon, 1992)
 - Yoko Arisaka, “Asian Women: Invisibility, Locations, and Claims to Philosophy,” in [*Women of Color and Philosophy: A Critical Reader*](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA21454584770003843) (Malden, MA: Blackwell, 2000)
@@ -19,6 +19,10 @@ order: 17
 - Cristan Williams, [“Radical Inclusion: Recounting the Trans Inclusive History of Radical Feminism,”](http://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1215/23289252-3334463) *TSQ: Transgender Studies Quarterly* (2016)
 - Robin Dembroff, [“Cisgender Commonsense and Philosophy’s Transgender Trouble,”](http://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1215/23289252-8553048) *TSQ* (2020)
 - Perry Zurn and Andrea Pitts, eds., [“Trans Philosophy: The Early Years,”](https://www.apaonline.org/resource/collection/B4B9E534-A677-4F29-8DC9-D75A5F16CC55/LGBTQV20n1.pdf#page=2) interview with Talia Mae Bettcher, Loren Cannon, Miqqi Alicia Gilbert, and C. Jacob Hale, *APA Newsletter on LGBTQ Issues in Philosophy* (2020)
+
+### Videos
+
+
 
 ## Student Support Resources
 

@@ -20,7 +20,9 @@
 
           <div class="col-12 col-md-10 col-lg-11">
             <h1>{{ page.title | smartify}}</h1>
+            {% if page.date %}
             <p style="font-size: 0.95rem; font-style: italic; margin-bottom: 2rem;">Last updated: {{ page.date | date: "%D" }}</p>
+            {% endif %}
           </div>
 
           <div class="col-12 col-md-10 col-lg-3 sticky-top small-screen-not-sticky" style="top: 1.125rem;">
