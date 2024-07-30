@@ -111,9 +111,9 @@ For this class, I will use in-class activities (which will be graded on a check-
 
 Throughout this semester, please keep a running lexicon of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot them down in your notes as you go, though the versions that you turn in should be typed and cleaned up.
 
-I will ask everybody to turn in a midterm version of their lexicon, which I will share with the class so we can identify and address common misunderstandings. This midterm version will make up 5% of your final grade.
+I will ask everybody to turn in a midterm version of their lexicon, which I will share with the class so we can identify and address common misunderstandings. This midterm version will not be graded, but failure to turn one in on time will be penalized by up to a full letter grade (10%) on the final version.
 
-The final version of the lexicon should be comprehensive and will account for another 10% of your final grade.
+The final version of the lexicon should be comprehensive and will make up 15% of your final grade.
 
 ### Shorties
 
@@ -121,7 +121,7 @@ For three classes this semester, you will be asked to write a short discussion p
 
 The purpose of the shorties is threefold: they invite you to critically engage with the readings, offer low-stake opportunities for you to learn to do philosophy through writing, and will inform and shape our discussions in class. The shorties are not summaries. Instead, try to raise a question (and consider how the author might wish to answer it!), motivate a puzzle or a worry, defend a view against a worry, connect the reading to an idea or argument we discussed previously, or apply it to a current context, a historical event, or your own lived experience and see how it holds up. If there are two or more readings for a given class, you may choose to either focus on one of them or reflect on a broader theme/common thread.
 
-The best of your three shorties will make up 5% of your final grade, and the other two each another 2.5%.
+The best of your three shorties will account for 5% of your final grade, and the other two each another 2.5%.
 
 ### Objection-reply essays
 
@@ -133,7 +133,7 @@ The better of your two objection-reply essays will make up 20% of your final gra
 
 You are required to complete a final project for this course. This can be either a traditional paper or an equally substantial creative project of your choice---for example, you might want to make a zine, create educational materials on an issue, write a play, design a board game, draft a short story or a piece of public writing, script and produce a video essay, record a mini-album, publish a podcast episode, curate an exhibit, build a website or an application, reenact a story or a moment, imagine an alternative history, illustrate an argument or debate, or profile a community member (really, the sky’s the limit!). My hope is that the flexibility of the format will allow you to further engage with our course materials in a way that suits and reflects your own interests.
 
-While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own---if this is something you would like to do, please meet with me **by Thursday, November 14** to discuss your ideas. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Sunday, December 15**.
+While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own---if this is something you would like to do, please meet with me **by Thursday, November 14** to discuss your ideas. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Tuesday, December 17**.
 
 The final project will make up 30% of your final grade.
 
