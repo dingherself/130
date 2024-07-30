@@ -3,7 +3,7 @@ layout: toc
 title: Syllabus
 group: navigation
 order: 5
-date: 2024-07-28
+date: 2024-07-29
 ---
 
 <h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
@@ -83,9 +83,10 @@ I will make all other required readings available digitally. If there are any ba
 
 Final course grades will be awarded on the following basis:
 
-- [Participation](#participation): 10%
-- Reading discussions, or [“shorties”](#shorties): 20%
-- [Objection-reply essays](#objection-reply-essays): 40%
+- [Participation](#participation): 15%
+- [Course lexicon](#course-lexicon): 15%
+- Reading discussions, or [“shorties”](#shorties): 10%
+- [Objection-reply essays](#objection-reply-essays): 30%
 - [Final project](#final-project): 30%
 
 All course requirements must be completed in order to pass this class. **An F received on any work due to academic dishonesty is grounds for an F in the course.**
@@ -104,33 +105,41 @@ You are expected to regularly contribute to class discussions and participate in
 - Identify the view the author is defending and the argument they are offering in support of their view (be careful to distinguish passages where the author is speaking for themself and where they are explaining another author’s view or considering objections!), and write down thoughts and questions in the margin as you react to each step in the argument.
 - Ask yourself if you think what the author is saying is not only plausible but well-argued. If not, think about why not: Is it because the author’s argument relies on a false premise, or is it because the author’s reasoning is fallacious? Is there a more plausible or more arguable way of formulating the point the author hopes to make? Are there countervailing considerations, alternative positions, or further complications that the author fails to take into account? Even if you agree with the author, try to anticipate objections that other readers may reasonably raise and think about how you can respond to them on the author’s behalf.
 
-Class participation will make up 10% of your final grade.
+For this class, I will use in-class activities (which will be graded on a check-plus/check/check-minus/fail basis) to establish a baseline participation grade, and then move up or down taking into account preparation, engagement, contribution, and [respect for others](#respect-support-and-care-for-one-another). Class participation will make up 10% of your final grade.
+
+### Course lexicon
+
+Throughout this semester, please keep a running lexicon of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot them down in your notes as you go, though the versions that you turn in should be typed and cleaned up.
+
+I will ask everybody to turn in a midterm version of their lexicon, which I will share with the class so we can identify and address common misunderstandings. This midterm version will make up 5% of your final grade.
+
+The final version of the lexicon should be comprehensive and will account for another 10% of your final grade.
 
 ### Shorties
 
-For three classes this semester, you will be asked to write a short discussion post responding to that day’s readings. These “shorties” are a beloved tradition of Arizona Philosophy. They should ideally be 150–250 words, and definitely no more than 500 words (for reference, this subsection on shorties is just about 250 words). They are due to the D2L discussion board **by noon the day before the class**. You may choose any three classes to write shorties for, as long as you do at least one of them before the midterm exam and at least one after.
+For three classes this semester, you will be asked to write a short discussion post responding to that day’s readings. These “shorties” are a beloved tradition of Arizona Philosophy. They should ideally be 150–250 words, and definitely no more than 500 words (for reference, this subsection on shorties is just about 250 words). They are due to the D2L discussion board **by noon the day before the class**. You may choose any three classes to write shorties for, as long as you do at least one of them before the midterm version of the course lexicon is due and at least one after.
 
 The purpose of the shorties is threefold: they invite you to critically engage with the readings, offer low-stake opportunities for you to learn to do philosophy through writing, and will inform and shape our discussions in class. The shorties are not summaries. Instead, try to raise a question (and consider how the author might wish to answer it!), motivate a puzzle or a worry, defend a view against a worry, connect the reading to an idea or argument we discussed previously, or apply it to a current context, a historical event, or your own lived experience and see how it holds up. If there are two or more readings for a given class, you may choose to either focus on one of them or reflect on a broader theme/common thread.
 
-The best of your three shorties will account for 10% of your final grade, and the other two each another 5%.
+The best of your three shorties will make up 5% of your final grade, and the other two each another 2.5%.
 
 ### Objection-reply essays
 
 The tradition of philosophy that now dominates English-speaking philosophy departments (often called “analytic philosophy”) is done characteristically in an *objection-reply style*. In this class, we will practice writing two shorts essays (2–3 pages each) in that style. These essays also offer opportunities to apply what  you have learned in class to current issues in ways that build on but go beyond our discussions. I will circulate prompts and instructions at least two weeks in advance.
 
-The better of your two objection-reply essays will make up 25% of your final grade, and the other one another 15%.
+The better of your two objection-reply essays will make up 20% of your final grade, and the other one another 10%.
 
 ### Final project
 
 You are required to complete a final project for this course. This can be either a traditional paper or an equally substantial creative project of your choice---for example, you might want to make a zine, create educational materials on an issue, write a play, design a board game, draft a short story or a piece of public writing, script and produce a video essay, record a mini-album, publish a podcast episode, curate an exhibit, build a website or an application, reenact a story or a moment, imagine an alternative history, illustrate an argument or debate, or profile a community member (really, the sky’s the limit!). My hope is that the flexibility of the format will allow you to further engage with our course materials in a way that suits and reflects your own interests.
 
-While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own---if this is something you would like to do, please meet with me **by Tuesday, November 19** to discuss your ideas. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Sunday, December 15**.
+While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own---if this is something you would like to do, please meet with me **by Thursday, November 14** to discuss your ideas. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Sunday, December 15**.
 
 The final project will make up 30% of your final grade.
 
 ## Honors Credit
 
-If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Friday, September 13**—to discuss your idea. The honors contract will require you to complete an additional independent project that explores one of our course themes in greater depth. For more information, please consult <https://honors.arizona.edu/academics/honors-contracts>.
+If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss your idea. The honors contract will require you to complete an additional independent project that explores one of our course themes in greater depth. For more information, please consult <https://honors.arizona.edu/academics/honors-contracts>.
 
 ## Excused Absences
 
