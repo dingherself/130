@@ -97,7 +97,7 @@ Final course grades will be awarded on the following basis:
 
 All course requirements must be completed in order to pass this class. **An F received on any work due to academic dishonesty is grounds for an F in the course.**
 
-Requests for an incomplete (I) or withdrawal (W) grade must be made in accordance with university policies, which are available at <http://catalog.arizona.edu/policy/grades-and-grading-system>.
+Requests for an incomplete (I) or withdrawal (W) grade must be made in accordance with university policies, which are available at <http://catalog.arizona.edu/policy/grades-and-grading-system>{: .text-break}.
 
 ### Participation
 
@@ -145,15 +145,15 @@ The final project will make up 30% of your final grade.
 
 ## Honors Credit
 
-If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss your idea. The honors contract will require you to complete an additional independent project that explores one of our course themes in greater depth. For more information, please consult <https://honors.arizona.edu/academics/honors-contracts>.
+If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss your idea. The honors contract will require you to complete an additional independent project that explores one of our course themes in greater depth. For more information, please consult <https://honors.arizona.edu/academics/honors-contracts>{: .text-break}.
 
 ## Excused Absences
 
 Please email me if there is a reason you can’t come to class, but you *don’t* need to show me any kind of documentation. This is an honor system, and I trust you not to abuse it—all I ask is you also be flexible and considerate when you are in a position of power to do so.
 
-- The UA policy concerning class attendance, participation, and administrative drops is available at <http://catalog.arizona.edu/policy/class-attendance-participation-and-administrative-drop>.
-- The UA policy regarding absences for any sincerely held religious belief, observance or practice will be accommodated where reasonable: <http://policy.arizona.edu/human-resources/religious-accommodation-policy>.
-- Absences preapproved by the UA Dean of Students (or the Dean’s designee) will be honored; see <http://policy.arizona.edu/employmenthuman-resources/attendance>.
+- The UA policy concerning class attendance, participation, and administrative drops is available at <http://catalog.arizona.edu/policy/class-attendance-participation-and-administrative-drop>{: .text-break}.
+- The UA policy regarding absences for any sincerely held religious belief, observance or practice will be accommodated where reasonable: <http://policy.arizona.edu/human-resources/religious-accommodation-policy>{: .text-break}.
+- Absences preapproved by the UA Dean of Students (or the Dean’s designee) will be honored; see <http://policy.arizona.edu/employmenthuman-resources/attendance>{: .text-break}.
 
 ## Late Assignments, Extensions, and Make-Ups
 
@@ -165,11 +165,11 @@ As an instructor, I always appreciate students asking for extensions ahead of ti
 
 ### Code of Academic Integrity
 
-Students are encouraged to share intellectual views and discuss freely the principles and applications of course materials. However, graded work/exercises must be the product of independent effort unless otherwise instructed. Students are expected to adhere to the UA Code of Academic Integrity as described in the UA General Catalog. See <http://deanofstudents.arizona.edu/academic-integrity/students/academic-integrity>.
+Students are encouraged to share intellectual views and discuss freely the principles and applications of course materials. However, graded work/exercises must be the product of independent effort unless otherwise instructed. Students are expected to adhere to the UA Code of Academic Integrity as described in the UA General Catalog. See <http://deanofstudents.arizona.edu/academic-integrity/students/academic-integrity>{: .text-break}>.
 
 ### Plagiarism
 
-**I view plagiarism as a *very* serious violation of the university’s Code of Academic Integrity, and you should as well.** I strongly encourage you to review this helpful guide prepared by the university library: <https://new.library.arizona.edu/research/citing/plagiarism>. I understand different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for the purposes of our course, please don’t hesitate to ask me.
+**I view plagiarism as a *very* serious violation of the university’s Code of Academic Integrity, and you should as well.** I strongly encourage you to review this helpful guide prepared by the university library: <https://new.library.arizona.edu/research/citing/plagiarism>{: .text-break}. I understand different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for the purposes of our course, please don’t hesitate to ask me.
 
 ### Use of generative AI tools
 
@@ -187,7 +187,7 @@ My own policy is to prohibit students from turning in *as their own work* either
 
 Unfortunately, philosophy as an institutionalized discipline is remarkably white, cis male, straight, able-bodied, and middle-class. This lack of diversity is often apparent just from the topics and authors typically taught in introductory philosophy courses. However, philosophy as a whole is becoming more and more diverse thanks to the efforts of several generations of philosophers. As a philosophy student, you can also help the profession address its diversity and inclusiveness problems by seriously engaging with minority authors and supporting your fellow minority students.
 
-The American Philosophical Association (APA) has a useful handout for minority undergraduate students in philosophy, which you can read here: <a style="word-wrap: break-word;" href="https://www.apaonline.org/resource/resmgr/diversity/Advice_for_Undergrads.pdf">https://www.apaonline.org/resource/resmgr/diversity/Advice_for_Undergrads.pdf</a>.
+The American Philosophical Association (APA) has a useful handout for minority undergraduate students in philosophy, which you can read here: <https://www.apaonline.org/resource/resmgr/diversity/Advice_for_Undergrads.pdf>{: .text-break}.
 
 A valuable local opportunity is the Arizona Feminist Philosophy Graduate Conference organized annually by graduate students at the UA Department of Philosophy. The conference brings together graduate students working on feminist issues from around the country and the world. The recordings of many talks in the past are available freely on the conference website: <https://femphilaz.com>.
 
@@ -221,7 +221,7 @@ Gender identity & sexual orientation
 - Use the pronouns and name you are asked to when you refer to a person, and avvoid assuming a person’s pronouns, gender identity, or sexual orientation based on their appearance, voice, or name;
 - Be careful not to disclose anyone’s gender identity or sexual orientation (i.e., out them) without their permission, even if they are already out in the classroom—it can put lives in danger;
 - Never inquire about anyone’s genitalia, deadname, “before” photos, medical history, assigned gender at birth, sex life, and so on;
-- Use inclusive language (for helpful examples, see <https://www.apaonline.org/page/nonsexist> and <https://transjournalists.org/style-guide>).
+- Use inclusive language (for helpful examples, see <https://www.apaonline.org/page/nonsexist>{: .text-break} and <https://transjournalists.org/style-guide>{: .text-break}).
 
 If you feel any aspect of this course makes it difficult for you to participate fully, I want to know. This is *very* important to me.
 
@@ -229,13 +229,13 @@ If you feel any aspect of this course makes it difficult for you to participate 
 
 To foster a positive learning environment, students and instructors have a shared responsibility. We want a safe, welcoming, and inclusive environment where all of us feel comfortable with each other and where we can challenge ourselves to succeed. To that end, our focus is on the tasks at hand and not on extraneous activities (e.g., texting, chatting, reading a newspaper, making phone calls, web surfing, etc.).
 
-The University of Arizona is committed to creating and maintaining an environment free of discrimi-nation. In support of this commitment, the University prohibits discrimination, including harassment and retaliation, based on a protected classification, including race, color, religion, sex, national ori-gin, age, disability, veteran status, sexual orientation, gender identity, or genetic information. For more information, including how to report a concern, please see <http://policy.arizona.edu/human-resources/nondiscrimination-and-anti-harassment-policy>.
+The University of Arizona is committed to creating and maintaining an environment free of discrimi-nation. In support of this commitment, the University prohibits discrimination, including harassment and retaliation, based on a protected classification, including race, color, religion, sex, national ori-gin, age, disability, veteran status, sexual orientation, gender identity, or genetic information. For more information, including how to report a concern, please see <http://policy.arizona.edu/human-resources/nondiscrimination-and-anti-harassment-policy>{: .text-break}.
 
 Our classroom is a place where everyone is encouraged to express well-formed opinions and their reasons for those opinions. We also want to create a tolerant and open environment where such opinions can be expressed without resorting to bullying or discrimination of others.
 
-The UA Threatening Behavior by Students Policy prohibits threats of physical harm to any member of the University community, including to oneself. See <http://policy.arizona.edu/education-and-student-affairs/threatening-behavior-students>.
+The UA Threatening Behavior by Students Policy prohibits threats of physical harm to any member of the University community, including to oneself. See <http://policy.arizona.edu/education-and-student-affairs/threatening-behavior-students>{: .text-break}.
 
-For a list of emergency procedures for all types of incidents, please visit the website of the Critical Incident Response Team (CIRT): <https://cirt.arizona.edu/case-emergency/overview>. Also watch the video avail-able at <a style="word-wrap: break-word;" href="https://arizona.sabacloud.com/Saba/Web_spf/NA7P1PRD161/common/learningeventdetail/crtfy000000000003560">https://arizona.sabacloud.com/Saba/Web_spf/NA7P1PRD161/common/learningeventdetail/crtfy000000000003560</a>.
+For a list of emergency procedures for all types of incidents, please visit the website of the Critical Incident Response Team (CIRT): <https://cirt.arizona.edu/case-emergency/overview>{: .text-break}. Also watch the video avail-able at <https://arizona.sabacloud.com/Saba/Web_spf/NA7P1PRD161/common/learningeventdetail/crtfy000000000003560>{: .text-break}.
 
 Additional information about evacuation plans in buildings across campus are in the process of being available now through the campus map (<https://map.arizona.edu>). If you click on the building, you have access to the safety plan.
 
