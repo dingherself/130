@@ -63,7 +63,7 @@ Our class is organized into three parts, one for each of our themes. In the part
 
 In Part II, we will go further back into history and reconsider the contributions of Beauvoir’s *The Second Sex*. While Beauvoir is read standardly as introducing something like a sex/gender distinction, we will think about whether that reading in fact holds up and what implications that might have on our understanding of sex and gender today. We will then draw on the experiences of intersex and trans people to reevaluate the now-standard formulation of the sex/gender distinction itself, on which sex is the biology and gender its social meaning. Could it be that sex also has as much to do with social meaning and gender with biology?
 
-Finally, we will consider what it means to love—personally, conceptually, and politically. Would love make us happier? Better? More complete? If love is such a good thing, should we ever restrict ourselves to having just one lover? Can we genuinely love one another under conditions of oppression and injustice? Is marriage equality a victory for queer people? Trans people? As we take up these questions, we will keep our imagination open for what love could hold for the future.
+Finally, we will consider what it means to love—personally, conceptually, and politically. Would love make us happier? Better? More complete? If love is such a good thing, should we ever restrict ourselves to just one lover? How can we love under conditions of oppression and injustice? Is marriage equality a victory for queer people? Trans people? As we take up these questions, we will keep our imagination open for what love could hold for the future.
 
 ## Required Texts
 
