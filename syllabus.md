@@ -38,7 +38,7 @@ date: 2024-07-29
 
 ## Course Overview
 
-What is sex? Is it a mere accident that the English term ‘sex’ refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
+What is sex? Is it a mere accident that the English term ‘sex’ refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about pregnancy, sexuality, consent, desire, pleasure, and love in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
 
 ## Expected Learning Outcomes
 
@@ -46,7 +46,7 @@ In Phil 130, students will learn to
 
 1. Analyze major conceptual and normative issues about sex, gender, and love;
 2. Charitably interpret and critically assess philosophical texts and arguments;
-3. Construct original, well-reasoned arguments in response to philosophical questions about sex, gender, and love;
+3. Construct original, well-reasoned analyses in response to philosophical questions about sex, gender, and love;
 4. Discuss ways in which philosophical analysis and contemporary social justice movements may shed novel light on each other;
 5. Discuss ways in which philosophical reflection may help to clarify and express minority experiences that are otherwise masked by oppressive social structures.
 
@@ -57,7 +57,13 @@ Phil 130 is an Exploring Perspectives–Humanist course with a Diversity & Equit
 
 ## Course Objectives
 
-Phil 130 achieves these learning outcomes by [under construction].
+Phil 130 achieves these learning outcomes by exploring major ideas, theories, and controversies surrounding sex, gender, and love, with a view to the centrality of these issues to both feminist theory and lived experiences (especially the lived experiences of queer and trans people of color, who are particularly marginalized in philosophical theorizing).
+
+Our class is organized into three parts, one for each of our themes. In the part on sex, we will begin with the current politics and law of pregnancy in light of the Supreme Court’s recent decision in *Dobbs v. Jackson Women’s Health Organization* (2022). Of particular interest here is the emerging problem of how best to theorize the connection between pregnancy and gender in a way that reconciles second-wave feminist and trans feminist politics. Next, we will then to issues of sexuality, where we will examine the formulation of the feminist political analysis of sex and think through its difficulty in speaking to the experiences of cis and trans women of color. This leads us straight to the “Sex Wars” in the wake of the 1982 Conference on Sexuality at Barnard College. We will focus on two major controversies: the radical feminist opposition to pornography and an even broader feminist opposition to lesbian sadomasochism.
+
+In Part II, we will go further back into history and reconsider the contributions of Beauvoir’s *The Second Sex*. While Beauvoir is read standardly as introducing something like a sex/gender distinction, we will think about whether that reading in fact holds up and what implications that might have on our understanding of sex and gender today. We will then draw on the experiences of intersex and trans people to reevaluate the now-standard formulation of the sex/gender distinction itself, on which sex is the biology and gender its social meaning. Could it be that sex also has as much to do with social meaning and gender with biology?
+
+Finally, we will consider what it means to love, personally, conceptually, and politically. Would love make us happier? Better? More complete? If love is such a good thing, should we ever restrict ourselves to having just one lover? Can we genuinely love one another under conditions of oppression and injustice? Is marriage equality a victory for queer people? Trans people? As we take up these questions, we will keep our imagination open for what love could hold for the future.
 
 ## Required Texts
 
@@ -117,7 +123,7 @@ The final version of the lexicon should be comprehensive and will make up 15% of
 
 ### Shorties
 
-For three classes this semester, you will be asked to write a short discussion post responding to that day’s readings. These “shorties” are a beloved tradition of Arizona Philosophy. They should ideally be 150–250 words, and definitely no more than 500 words (for reference, this subsection on shorties is just about 250 words). They are due to the D2L discussion board **by noon the day before the class**. You may choose any three classes to write shorties for, as long as you do at least one of them before the midterm version of the course lexicon is due and at least one after.
+For three classes this semester, you will be asked to write a short discussion post responding to that day’s readings. These “shorties” are a beloved tradition of Arizona Philosophy. They should ideally be 150–250 words, and definitely no more than 500 words (for reference, this subsection on shorties is just about 250 words). They are due to the [D2L discussion board](https://d2l.arizona.edu/d2l/le/1453095/discussions/List) **by noon the day before the class**. You may choose any three classes to write shorties for, as long as you do at least one of them before the midterm version of the course lexicon is due and at least one after.
 
 The purpose of the shorties is threefold: they invite you to critically engage with the readings, offer low-stake opportunities for you to learn to do philosophy through writing, and will inform and shape our discussions in class. The shorties are not summaries. Instead, try to raise a question (and consider how the author might wish to answer it!), motivate a puzzle or a worry, defend a view against a worry, connect the reading to an idea or argument we discussed previously, or apply it to a current context, a historical event, or your own lived experience and see how it holds up. If there are two or more readings for a given class, you may choose to either focus on one of them or reflect on a broader theme/common thread.
 

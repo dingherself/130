@@ -30,7 +30,7 @@ And that last thing is important—I think of numerical scores as *translations*
 
 ## Pass
 
-- D+/D/D-: This is where the writing starts not to make much sense. Not sure what’s going on, difficult to get through, but still responsive to the prompt.
+- D+/D/D-: This is where the writing starts not to make that much sense. Not sure what’s going on, difficult to get through, but still responsive to the prompt.
 
 ## Fail
 

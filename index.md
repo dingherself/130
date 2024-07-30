@@ -20,7 +20,7 @@ order: 1
 {{ site.meeting_time }}, {{ site.classroom | smartify }}
 
 {% if site.ta_title %}
-<div class="row no-gutters gx-0">
+<div class="row no-gutters gx-0 mb-1">
   <div class="col-12 col-md-6">
 {% endif %}
     <script language="JavaScript" type="text/javascript">
@@ -50,7 +50,5 @@ order: 1
   </div>
 </div>
 {% endif %}
-
-What is sex? Is it a mere accident that the English term "sex" refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about consent, desire, objectification, and sexualization in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
 
 <p align="center"><strong><a href="{{ site.baseurl }}{% link syllabus.md %}">syllabus</a></strong> &#124; <strong><a href="{{ site.baseurl }}{% link schedule.html %}">schedule</a></strong> &#124; <strong><a href="{{ site.learning_site}}">D2L site</a></strong></p>
