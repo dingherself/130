@@ -16,7 +16,7 @@
 
     <main id="content" role="main" class="container" style="padding-bottom: 3rem;">
       <div class="container maincontent">
-        <div class="row justify-content-center align-items-start gx-5 mt-2">
+        <div class="row justify-content-center align-items-start gx-7 mt-2">
 
           <div class="col-12 col-md-10 col-lg-11">
             <h1>{{ page.title | smartify}}</h1>
@@ -25,11 +25,11 @@
             {% endif %}
           </div>
 
-          <div class="col-12 col-md-10 col-lg-3 sticky-top small-screen-not-sticky" style="top: 1.125rem;">
+          <div class="col-12 col-md-10 col-lg-3 sticky-top small-screen-not-sticky order-1 order-lg-5" style="margin-top: -0.25rem;">
               <nav id="toc">
               </nav>
           </div>
-          <div class="col-12 col-md-10 col-lg-8">
+          <div class="col-12 col-md-10 col-lg-8 order-5 order-lg-1">
             {{ content }}
           </div>
         </div>
