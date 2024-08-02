@@ -16,8 +16,8 @@ order: 1
 
 <h1 style="margin-bottom: 0.875rem;">Welcome to {{ site.course_title | smartify }}!</h1>
 
-{{ site.course_number }}, {{ site.semester | smartify }}\
-{{ site.meeting_time }}, {{ site.classroom | smartify }}
+<p>{{ site.course_number }}, {{ site.semester | smartify }}<br />
+{{ site.meeting_time }}, {{ site.classroom | smartify }}</p>
 
 {% if site.ta_title %}
 <div class="row no-gutters gx-0 mb-1">
