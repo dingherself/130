@@ -117,7 +117,7 @@ For this class, I will use in-class activities (which will be graded on a check-
 
 Throughout this semester, please keep a running lexicon of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot them down in your notes as you go, though the versions that you turn in should be typed and cleaned up.
 
-I will ask everybody to turn in a midterm version of their lexicon, which I will share with the class so we can identify and address common misunderstandings. This midterm version will not be graded, but failure to turn one in on time will be penalized by up to a full letter grade (10%) on the final version.
+I will ask everybody to turn in a midterm version of their lexicon. This midterm version is merely a progress check and will not be graded; however, failure to turn one in on time will be penalized by up to a full letter grade (10%) on the final version.
 
 The final version of the lexicon should be comprehensive and will make up 15% of your final grade.
 
