@@ -173,6 +173,14 @@ $gutters: (
     color: #{$dingdarkred};
   }
 
+  a:hover {
+    color: #{$link-hover-color-dark};
+  }
+
+  .navbar a:hover {
+    color: #{shift-color($body-color-dark, -100%)};
+  }
+
   .btn-outline-primary {
     --bs-btn-color: #{$dingdarkred};
     --bs-btn-border-color: #{$dingdarkred};
@@ -194,6 +202,14 @@ $gutters: (
 
   .nav-link.active, .nav-link.show {
     color: #{$dingred};
+  }
+
+  a:hover {
+    color: #{$link-hover-color};
+  }
+
+  .navbar a:hover {
+    color: #{shift-color($body-color, 100%)};
   }
 }
 
