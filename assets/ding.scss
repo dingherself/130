@@ -35,10 +35,12 @@ $primary-bg-subtle-dark: $dingdarkred;
 $primary-border-subtle-dark: $dingdarkred;
 $link-color-dark: $dingdarkred;
 
-$navbar-light-color: rgba($black, .7);
-$navbar-light-active-color: rgba($dingred, .8);
+$navbar-light-color: $body-color;
+$navbar-light-hover-color: shift-color($body-color, 100%);
+$navbar-light-active-color: $dingred;
 $navbar-light-toggler-border-color: rgba($black, .4);
-$navbar-light-brand-color: $black;
+$navbar-light-brand-color: $body-color;
+$navbar-light-brand-hover-color: shift-color($body-color, 100%);
 $navbar-brand-font-size: 1.05rem;
 
 $font-weight-light: 400;
@@ -165,20 +167,16 @@ $gutters: (
 // 8. Add additional custom code here
 
 [data-bs-theme="dark"] {
-  .navbar-brand, .nav-link {
-    color: #{$body-color-dark};
+  .navbar {
+    --bs-navbar-color: $body-color-dark;
+    --bs-navbar-hover-color: #{shift-color($body-color-dark, -100%)};
+    --bs-navbar-active-color: #{$dingdarkred};
+    --bs-navbar-brand-color: $body-color-dark;
+    --bs-navbar-brand-hover-color: #{shift-color($body-color-dark, -100%)};
   }
 
   .nav-link.active, .nav-link.show {
     color: #{$dingdarkred};
-  }
-
-  a:hover {
-    color: #{$link-hover-color-dark};
-  }
-
-  .navbar a:hover {
-    color: #{shift-color($body-color-dark, -100%)};
   }
 
   .btn-outline-primary {
@@ -195,26 +193,12 @@ $gutters: (
   }
 }
 
-[data-bs-theme="light"] {
-  .navbar-brand, .nav-link {
-    color: #{$black};
-  }
-
-  .nav-link.active, .nav-link.show {
-    color: #{$dingred};
-  }
-
-  a:hover {
-    color: #{$link-hover-color};
-  }
-
-  .navbar a:hover {
-    color: #{shift-color($body-color, 100%)};
-  }
-}
-
 nav[data-toggle="toc"] .nav .active .nav {
   display: none;
+}
+
+.nav-link:focus-visible {
+    box-shadow: none;
 }
 
 .card-body p {
@@ -242,7 +226,7 @@ h3, .h3 {
   font-style: italic;
 }
 
-h6, .h6, h5, .h5, h4, .h4, {
+h6, .h6, h5, .h5, h4, .h4 {
   margin-top: 1rem;
 }
 
