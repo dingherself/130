@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /announcements.html
+Disallow: /announcements/
+
+User-agent: Twitterbot
+Allow: /announcements.html
+Allow: /announcements/
+
+User-agent: GPTBot
+Disallow: /
