@@ -7,7 +7,9 @@ order: 3
 
 <h1>Announcements</h1>
 
+{% unless site.categories.announcements %}
 <p>I will send out announcements by email and then post them here for easier reference.</p>
+{% endunless %}
 
 {% for post in site.categories.announcements %}
   {% unless post.previous %}
