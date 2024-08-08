@@ -1,10 +1,8 @@
 ---
-layout: handout
+layout: post
 title: "What Do the Letter Grades Mean?"
 module: "Assignments"
 ---
-
-# What do the letter grades mean?
 
 While we do not use pluses and minuses for final course grades here at the UofA, I will return your assignments with more fine-grained letter grades.
 

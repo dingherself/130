@@ -1,5 +1,6 @@
 ---
 layout: default
+posts_category: announcements
 title:  "Announcements"
 group: navigation
 order: 3
@@ -7,26 +8,8 @@ order: 3
 
 <h1>Announcements</h1>
 
-{% unless site.categories.announcements %}
+{% unless site.categories.announcements -%}
 <p>I will send out announcements by email and then post them here for easier reference.</p>
-{% endunless %}
+{%- endunless %}
 
-{% for post in site.categories.announcements %}
-  {% unless post.previous %}
-    <h2>{{ post.module }}</h2>
-    <ul>
-  {% else %}
-    {% capture module %}{{ post.module }}{% endcapture %}
-    {% capture pmodule %}{{ post.previous.module }}{% endcapture %}
-    {% if module != pmodule %}
-      </ul>
-      <h2>{{ post.module }}</h2>
-      <ul>
-    {% endif %}
-  {% endunless %}
-
-  <li>
-    <a href="{{ post.url }}" style="padding-right: 7px;">{{ post.title }}</a><small class="text-body-secondary" style="font-style: italic;">{{ post.date | date: "%a, %b %e, %Y" }}</small>
-  </li>
-{% endfor %}
-</ul>
+{% include posts_list.html %}

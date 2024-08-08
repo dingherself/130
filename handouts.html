@@ -1,5 +1,6 @@
 ---
 layout: default
+posts_category: handouts
 title:  "Handouts"
 group: navigation
 order: 15
@@ -7,26 +8,8 @@ order: 15
 
 <h1>Handouts</h1>
 
-{% unless site.categories.handouts %}
-  <p>Handouts will be posted here.</p>
-{% endunless %}
+{%- unless site.categories.handouts -%}
+<p>Handouts will be posted here.</p>
+{% endunless -%}
 
-{% for post in site.categories.handouts reversed %}
-  {% unless post.previous %}
-    <h2>{{ post.module }}</h2>
-    <ul>
-  {% else %}
-    {% capture module %}{{ post.module }}{% endcapture %}
-    {% capture pmodule %}{{ post.previous.module }}{% endcapture %}
-    {% if module != pmodule %}
-      </ul>
-      <h2>{{ post.module }}</h2>
-      <ul>
-    {% endif %}
-  {% endunless %}
-
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+{% include posts_list.html module ="Assignments" %}
