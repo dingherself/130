@@ -6,7 +6,7 @@ layout: default
 <nav class= aria-label="breadcrumb">
   <ol class="breadcrumb">
     {%- capture category_name -%}{{ page.categories | escape | split: ', ' | first | remove: '[&quot;' | remove: '&quot;]' }}{%- endcapture -%}
-    <li class="breadcrumb-item"><small class="text-body-secondary"><a href="{{ site.baseurl }}{% link {{ category_name | append: '.html' }} %}">{{ category_name | capitalize | smartify}}</a></small></li>
+    <li class="breadcrumb-item"><small class="text-body-secondary"><a href="{{ category_name | prepend: '../' | append: '.html' }}">{{ category_name | capitalize | smartify}}</a></small></li>
     <li class="breadcrumb-item active" aria-current="page"><small class="text-body-secondary">{{ page.title }}</small></li>
   </ol>
 </nav>
