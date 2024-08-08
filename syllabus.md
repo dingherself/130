@@ -106,7 +106,9 @@ In approaching a philosophical issue, we will often find ourselves in the middle
 
 Participation in philosophy courses also serves a wide range of pedagogical purposes: class discussions help students make sense of difficult ideas and arguments in the texts; they help students learn to explain and apply concepts, analyze and assess arguments, and formulate and respond to worries and objections; in addition, they contribute to other students’ learning experience by helping to build a vibrant, mutually supportive classroom environment that encourages questions, exchange of ideas, and philosophical reflection.
 
-You are expected to regularly contribute to class discussions and participate in class activities, and to do that, you are expected to have read the assigned texts *carefully* and *critically* in advance of class (remember to bring a copy with you as we will often look at difficult passages together!). It’s useful to keep in mind that philosophical writing is, at bottom, argumentative—that is, its goal is to defend or criticize a particular view. As you do the readings, be sure to:
+You are expected to regularly contribute to class discussions and participate in class activities. To do that, you are expected to have read the assigned texts carefully and critically *in advance of class* (remember to bring a copy with you as we will often look at difficult passages together!).
+
+It’s useful to keep in mind that philosophical writing is, at bottom, argumentative—that is, its goal is to defend or criticize a particular view. As you do the readings, be sure to:
 
 - Keep track of what the author says they mean by a particular term or distinction, and take note of terms and distinctions that don’t quite make sense to you.
 - Identify the view the author is defending and the argument they are offering in support of their view (be careful to distinguish passages where the author is speaking for themself and where they are explaining another author’s view or considering objections!), and write down thoughts and questions in the margin as you react to each step in the argument.
