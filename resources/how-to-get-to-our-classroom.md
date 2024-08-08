@@ -6,7 +6,7 @@ group: resources
 order: 5
 ---
 
-# How to get to our classroom
+# How to Get to Our Classroom
 
 Harvill 305 is a bit tricky to find. It’s easiest to use either the elevator/staircase located at the center the building (enter from the southwestern corner/plaza from 2nd St/Olive Rd) or the external staircase on the south side (facing 2nd St).
 

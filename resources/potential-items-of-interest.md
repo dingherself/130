@@ -6,7 +6,7 @@ group: resources
 order: 10
 ---
 
-# Potential items of interest
+# Potential Items of Interest
 
 - Nancy Tuana, “Reading Philosophy as a Woman,” in [*Woman and the History of Philosophy*](https://archive.org/embed/isbn_9780557781942) (New York: Paragon, 1992)
 - Yoko Arisaka, “Asian Women: Invisibility, Locations, and Claims to Philosophy,” in [*Women of Color and Philosophy: A Critical Reader*](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA21454584770003843) (Malden, MA: Blackwell, 2000)

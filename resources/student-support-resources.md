@@ -6,7 +6,7 @@ group: resources
 order: 20
 ---
 
-# Student support resources
+# Student Support Resources
 
 ## Campus Health Services
 
