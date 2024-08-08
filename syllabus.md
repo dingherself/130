@@ -140,7 +140,7 @@ The better of your two objection-reply essays will make up 20% of your final gra
 
 ### Final project
 
-You are required to complete a final project for this course. This can be either a traditional final paper or an equally substantial creative project of your choice---for example, you might want to make a zine, create educational materials on an issue, write a play, design a board game, draft a short story or a piece of public writing, script and produce a video essay, record a mini-album, publish a podcast episode, curate an exhibit, build a website or an application, reenact a story or a moment, imagine an alternative history, illustrate an argument or debate, or profile a community member (really, the sky’s the limit!). My hope is that the flexibility of the format will allow you to further engage with our course materials in a way that suits and reflects your own interests.
+You are required to complete a final project for this course. This can be either a traditional final paper or an equally substantial creative project of your choosing---for example, you might want to make a zine, create educational materials on an issue, write a play, design a board game, draft a short story or a piece of public writing, script and produce a video essay, record a mini-album, publish a podcast episode, curate an exhibit, build a website or an application, reenact a story or a moment, imagine an alternative history, illustrate an argument or debate, or profile a community member (really, the sky’s the limit!). My hope is that the flexibility of the format will allow you to further engage with our course materials in a way that suits and reflects your own interests.
 
 While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own---if this is something you would like to do, please meet with me **by Thursday, November 14** to discuss your ideas. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Tuesday, December 17**.
 
@@ -148,7 +148,7 @@ The final project will make up 30% of your final grade.
 
 ## Honors Credit
 
-If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss your idea. The honors contract will require you to complete an additional independent project that explores one of our course themes in greater depth. For more information, please consult <https://honors.arizona.edu/academics/honors-contracts>{: .text-break}.
+If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss it. The honors contract will require you to complete an independent project that explores one of our course themes in greater depth. For our class, this could be an additional final project or a more substantial, research-based term paper in lieu of the regular final project (come talk to me about your ideas!). More information can be found at <https://honors.arizona.edu/academics/honors-contracts>{: .text-break}.
 
 ## Excused Absences
 
