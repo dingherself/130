@@ -12,7 +12,7 @@ layout: default
 <h1>{{ page.title | smartify}}</h1>
 
 {% if page.date %}
-<p style="font-size: 0.95rem; font-style: italic; margin-bottom: 2rem;">Posted: {{ page.date | date: "%a, %b %d, %Y" }}</p>
+<p style="font-size: 0.95rem; font-style: italic; margin-bottom: 2rem;">Posted: {{ page.date | date: "%a, %b %e, %Y" }}</p>
 {% endif %}
 
 {{ content }}
