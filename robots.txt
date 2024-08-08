@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /announcements.html
 Disallow: /announcements/
+Sitemap: https://130.dingthemself.com/sitemap.xml
 
 User-agent: Twitterbot
 Allow: /announcements.html
