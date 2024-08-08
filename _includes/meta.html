@@ -1,4 +1,4 @@
-    <meta charset="{{ page.encoding | default: site. encoding | default: 'utf-8' }}">
+    <meta charset="{{ page.encoding | default: site.encoding | default: 'utf-8' }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {%- capture site_description -%}Course website for {{ site.course_number }}: {{ site.course_title | smartify }} at {{ site.institution | smartify }}{%- endcapture -%}
     <meta name="description" content="{{ page.description | default: site_description | smartify }}">
