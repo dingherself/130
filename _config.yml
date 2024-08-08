@@ -49,6 +49,8 @@ sass:
     style: compressed
 
 # Course
+institution:            "the University of Arizona"
+institution_email_domain: "arizona.edu"
 semester:              "Fall 2024"
 course_number:  "Phil 130"
 course_title:         "Sex, Gender, and Love"
@@ -56,6 +58,7 @@ course_title_full:  "Sex, Gender, and Love: An Introduction to Social Philosophy
 description:        "Course website for Phil 130: Sex, Gender, and Love at the University of Arizona"
 instructor:            "Ding"
 instructor_website: "https://dingherself.com"
+instructor_netid:   "din"
 office:                   "Social Sciences 138"
 office_hours:       "Th 2:45–4:15pm, and by appointment"
 meeting_time:     "TuTh 9:30–10:45am"
