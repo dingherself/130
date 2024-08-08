@@ -46,7 +46,7 @@ In Phil 130, students will learn to
 
 1. Analyze major conceptual and normative issues about sex, gender, and love;
 2. Charitably interpret and critically assess philosophical texts and arguments;
-3. Construct original, well-reasoned analyses in response to philosophical questions about sex, gender, and love;
+3. Compose original, well-reasoned essays in response to philosophical questions about sex, gender, and love;
 4. Discuss ways in which philosophical analysis and contemporary social justice movements may shed novel light on each other;
 5. Discuss ways in which philosophical reflection may help to clarify and express minority experiences that are otherwise masked by oppressive social structures.
 
