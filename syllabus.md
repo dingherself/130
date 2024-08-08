@@ -67,7 +67,7 @@ Finally, we will consider what it means to love—personally, conceptually, and 
 
 ## Required Texts
 
-You will need to acquire the following texts on your own. As we will discuss them frequently in class, I will ask you to get hard copies if you can; there are usually excellent bargains from used bookstores.
+You will need to acquire the following texts on your own or from the campus bookstore. As we will discuss them frequently in class, I will ask you to get hard copies if you can; there are usually excellent bargains from used bookstores.
 
 - Simone de Beauvoir, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier (New York: Vintage Books, 2011). Paperback, 978-0307277787, \$20.00.
 
