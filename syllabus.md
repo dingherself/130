@@ -240,7 +240,7 @@ Our classroom is a place where everyone is encouraged to express well-formed opi
 
 The UA Threatening Behavior by Students Policy prohibits threats of physical harm to any member of the University community, including to oneself. See <http://policy.arizona.edu/education-and-student-affairs/threatening-behavior-students>{: .text-break}.
 
-For a list of emergency procedures for all types of incidents, please visit the website of the Critical Incident Response Team (CIRT): <https://cirt.arizona.edu/case-emergency/overview>{: .text-break}. Also watch the video avail-able at <https://arizona.sabacloud.com/Saba/Web_spf/NA7P1PRD161/common/learningeventdetail/crtfy000000000003560>{: .text-break}.
+For a list of emergency procedures for all types of incidents, please visit the website of the Critical Incident Response Team (CIRT): <https://cirt.arizona.edu/case-emergency/overview>{: .text-break}. Also watch the video available at <https://arizona.sabacloud.com/Saba/Web_spf/NA7P1PRD161/common/learningeventdetail/crtfy000000000003560>{: .text-break}.
 
 Additional information about evacuation plans in buildings across campus are in the process of being available now through the campus map (<https://map.arizona.edu>). If you click on the building, you have access to the safety plan.
 
