@@ -148,7 +148,7 @@ The final project will make up 30% of your final grade.
 
 ## Honors Credit
 
-If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss it. The honors contract will require you to complete an independent project that explores one of our course themes in greater depth. For our class, this could be an additional final project or a more substantial, research-based term paper in lieu of the regular final project (come talk to me about your ideas!). More information can be found at <https://honors.arizona.edu/academics/honors-contracts>{: .text-break}.
+If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss it. The honors contract will require you to complete an independent project that explores one of our course themes in greater depth. For our class, I’m happy to supervise an additional final project or a more substantial, research-based term paper in lieu of the regular final project (come talk to me about your ideas!). More information can be found at <https://honors.arizona.edu/academics/honors-contracts>{: .text-break}.
 
 ## Excused Absences
 
