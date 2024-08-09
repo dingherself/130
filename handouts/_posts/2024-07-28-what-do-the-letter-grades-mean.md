@@ -32,4 +32,4 @@ And that last thing is important—I think of numerical scores as *translations*
 
 ## Fail
 
-- E/F: Failing grades are given to either work that is not relevant or moral failings (e.g., plagiarism).
+- E/F: Failing grades are given to work that is not relevant, fails to follow the prompt/instructions, or engages in academic misconduct (e.g., plagiarism).
