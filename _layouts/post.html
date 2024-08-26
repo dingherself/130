@@ -14,7 +14,7 @@ layout: default
 
 <h1>{{ page.title | smartify}}</h1>
 
-{% unless page.date == nil or page.categories contains "handouts" -%}
+{% unless page.date == nil or page.categories contains "nodate" -%}
 <p style="font-size: 0.95rem; font-style: italic; margin-bottom: 2rem;">Posted: {{ page.date | date: "%a, %b %e, %Y" }}</p>
 {%- endunless %}
 
