@@ -7,7 +7,7 @@ module: "Introduction"
 Discussion questions:
 
 1. How has the answer to “what is sex?” become so not obvious to our author? Which potential answers has she tried, and why do they not work?
-2. Think about the bigger picture as well: What’s the point of deciding whether something counts as sex? (Is there such a point?) Who has made that decision for us? (Is it the right decision? Should they get to decide in the first place?)
+2. Think about the bigger picture as well: What’s the point of deciding whether something counts as sex? (Is there such a point? Is it innocent?) Who has made that decision for us? (Is it the right decision? Should they get to decide in the first place?)
 
 Some takeaways to continue to reflect on:
 
