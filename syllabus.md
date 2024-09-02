@@ -8,9 +8,9 @@ date: 2024-08-07
 
 <h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
 
-**{{ site.course_title_full | smartify }}**\
-{{ site.course_number }}, {{ site.semester | smartify }}\
-{{ site.meeting_time }}, {{ site.classroom | smartify }}
+<p class="mt-2"><strong>{{ site.course_title_full | smartify }}</strong><br />
+{{ site.course_number }}, {{ site.semester | smartify }}<br />
+{{ site.meeting_time }}, {{ site.classroom | smartify }}</p>
 
 <script language="JavaScript" type="text/javascript">
       var g = "edu";
