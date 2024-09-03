@@ -148,10 +148,10 @@ Applying the undue burden test, the plurality agreed that the only constitutiona
 
 ### *Dobbs v. Jackson Women’s Health Organization* (2022)
 
-At issue is Mississippi’s -week abortion ban with exceptions for “medical emergency” and “severe fetal abnormality,” designed speciﬁcally to test *Roe* and *Casey*. 
+At issue is Mississippi’s 15-week abortion ban with exceptions for “medical emergency” and “severe fetal abnormality,” designed speciﬁcally to test *Roe* and *Casey*. 
 
 - The district court enjoined the law; a unanimous Fifth Circuit panel affirmed.
-- On May , , the Court took up the case to decide “[w]hether all pre-viability prohibitions on elective abortions are unconstitutional.”
+- On May 17, 2021, the Court took up the case to decide “[w]hether all pre-viability prohibitions on elective abortions are unconstitutional.”
 - The state swiftly changed litigation strategy after Justice Barrett replaced the late Justice Ginsburg on the Court.
 
 *The* Glucksberg *test*: A liberty interest constitutes an implied/unenumerated fundamental right if and only if it is
