@@ -20,7 +20,8 @@ MacKinnon’s critiques:
 - Gender inequality in the private sphere: “Virtually every ounce of control that women won out of this legalization has gone directly into the hands of men—husbands, doctors, or fathers” (101).
   - Also racial politics (recall Murillo’s discussion): legalization protects white women from the specter of a “Mexican abortion.”
   - Facilitates sexual access to women’s bodies? taking away of an ultimate ground for refusing sex & *Playboy*’s advocacy for abortion legalization.
-
+  - To control reproduction is itself a form of social/political power.
+  
 - How one gets pregnant to begin with: there is a real danger in construing abortion as a *private choice*, which presumes agency, equality, freedom, dignity, material means, etc.
 
 (2) Abortion understood as a privacy right has nothing to do with gender equality.
