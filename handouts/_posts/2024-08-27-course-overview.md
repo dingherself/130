@@ -1,5 +1,5 @@
 ---
-layout: posth2
+layout: post
 title: "Course Overview"
 module: "Introduction"
 date: 2024-08-27 00:00:00 MST

@@ -1,5 +1,5 @@
 ---
-layout: posth2
+layout: post
 title: "MacKinnon on Privacy vs. Equality"
 module: "Sex"
 ---

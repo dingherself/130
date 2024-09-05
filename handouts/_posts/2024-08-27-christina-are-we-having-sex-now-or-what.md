@@ -1,5 +1,5 @@
 ---
-layout: posth2
+layout: post
 title: 'Greta Christina, “Are We Having Sex Now or What?”'
 module: "Introduction"
 date: 2024-08-27 01:00:00 MST

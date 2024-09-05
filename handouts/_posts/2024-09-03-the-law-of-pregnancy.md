@@ -1,5 +1,5 @@
 ---
-layout: posth2
+layout: post
 title: "The Law of Pregnancy"
 module: "Sex"
 ---
