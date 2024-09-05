@@ -49,6 +49,8 @@ sass:
     sass_dir: _sass
     style: compressed
 
+future: true
+
 # Course
 institution:            "the University of Arizona"
 semester:              "Fall 2024"
