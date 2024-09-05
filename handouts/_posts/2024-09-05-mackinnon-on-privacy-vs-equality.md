@@ -28,9 +28,9 @@ MacKinnon’s critiques:
 
 (3) While privacy makes abortion permissible, it does not entitle one to public resources; indeed, public funding of abortion *is* an intrusion of privacy. “Women with privileges get rights” (100).
 
-- *Maher v. Roe* (): upholding Connecticut law affording Medicaid benefits to cover childbirth expenses in general but restricting such benefits only to first-trimester abortions deemed “medically necessary.”
-- *Harris v. McRae* (): upholding Hyde Amendment restrictions prohibiting the use of federal Medicaid funds for even most medically necessary abortions.
-- *Rust v. Sullivan* (): upholding federal statute prohibiting recipients of federal family planning funding from providing abortion counseling or referral.
+- *Maher v. Roe* (1977): upholding Connecticut law affording Medicaid benefits to cover childbirth expenses in general but restricting such benefits only to first-trimester abortions deemed “medically necessary.”
+- *Harris v. McRae* (1980): upholding Hyde Amendment restrictions prohibiting the use of federal Medicaid funds for even most medically necessary abortions.
+- *Rust v. Sullivan* (1991): upholding federal statute prohibiting recipients of federal family planning funding from providing abortion counseling or referral.
 
 ## Equality
 
