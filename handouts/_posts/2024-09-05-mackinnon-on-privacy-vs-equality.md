@@ -46,3 +46,4 @@ The prevailing understanding of gender equality is in terms of sameness and diff
 MacKinnon’s proposal: ask not “are women treated differently from men?”; ask “are women treated as less than men?”
 
 - Still presumes some inherent connection between pregnancy and womanhood.
+- Still presumes some unproblematically biological conception of pregnancy.
