@@ -37,7 +37,7 @@ MacKinnon’s critiques:
 
 ## Equality
 
-The even trickier issue is we actually don’t have a workable way to think about abortion as a gender equality issue.
+The even trickier problem is we actually don’t have a workable way to think about abortion as a gender equality issue.
 
 The prevailing understanding of gender equality is in terms of sameness and difference: treat women & men the same when they are relevantly the same; treat them differently when they are not [implicitly: social differences should match onto biological differences].
 
