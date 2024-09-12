@@ -30,9 +30,9 @@ order: 1
       var a = "din";
       var t = " ";
       var s = "@";
-      document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + a + s + o + c + g + "'>" + a + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
+      document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}' target='_blank'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + a + s + o + c + g + "'>" + a + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
     </script>
-    <noscript><p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br /></p></noscript>
+    <noscript><p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}' target='_blank'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br /></p></noscript>
 {% if site.ta_title %}
   </div>
 
