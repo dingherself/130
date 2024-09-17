@@ -2,7 +2,7 @@
 layout: post
 title: The Law of Rape
 module: "Sex"
-date: 2024-09-07 00:00:00 MST
+date: 2024-09-12 00:00:00 MST
 ---
 
 ## Background
