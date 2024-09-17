@@ -1,8 +1,7 @@
 ---
 layout: post
-title: The Law of Rape
+title: MacKinnon on Sexuality
 module: "Sex"
-date: 2024-09-07 00:00:00 MST
 ---
 
 ## Recap
