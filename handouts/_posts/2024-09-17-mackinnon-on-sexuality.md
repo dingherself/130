@@ -10,11 +10,11 @@ Recent *NPR* story: [“Domestic violence is now recognized as a leading cause o
 
 The situation:
 
-- The pervasiveness of sexual assault (& sexual harassment, domestic abuse, etc.): often cited data are that [1 in 6](https://rainn.org/statistics/scope-problem) or [1 in 5](https://www.nsvrc.org/sites/default/files/publications_nsvrc_factsheet_media-packet_statistics-about-sexual-violence_0.pdf) women (compared to 1 in 71 men) in the U.S. experience rape or attempted rape in their lifetime
-  - In 8 in 10 cases, the perpetrator is an acquaintance.
-  - In 9 in 10 cases, the rape targets a woman.
+- The pervasiveness of sexual assault (& sexual harassment, domestic abuse, etc.): often cited data are that [one in six](https://rainn.org/statistics/scope-problem) or [one in five](https://www.nsvrc.org/sites/default/files/publications_nsvrc_factsheet_media-packet_statistics-about-sexual-violence_0.pdf) women (compared to 1 in 71 men) in the U.S. experience rape or attempted rape in their lifetime
+  - In eight in ten cases, the perpetrator is an acquaintance.
+  - In nine in ten cases, the rape targets a woman.
 - The under-reporting of sexual assault: data are again tricky, but something like 37% of sexual assaults and 12% of child sexual abuse are reported.
-  - Victim-blaming, “he said, she said,” fear of retaliation, etc.
+  - Fear of retaliation, victim-blaming, “he said, she said,” etc.
   - Also (this is MacKinnon’s point): line between rape and “normal” sex can be thin in women’s experiences—the latter can involve quite a lot of force, coercion, non consent, etc. So, for all the *wrong* reasons, the men who find it hard to distinguish rape from rough sex are right about something.
 
 The “violence, not sex” response:
