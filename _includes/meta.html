@@ -1,6 +1,6 @@
     <meta charset="{{ page.encoding | default: site.encoding | default: 'utf-8' }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {%- capture site_description -%}Course website for {{ site.course_number }}: {{ site.course_title | strip_html | smartify }} at {{ site.institution | strip_html | smartify }}{%- endcapture -%}
+    {%- capture site_description -%}Course website for {{ site.course_number }}: {{ site.course_title | strip_html | smartify }} at {{ site.institution | strip_html | smartify }} (Instructor: {{ site.instructor | strip_html | smartify }}).{%- endcapture -%}
     <meta name="description" content="{{ page.description | default: site_description | strip_html | smartify }}">
     <meta name="author" content="{{ site.instructor | strip_html | smartify }}">
 {%- if page.redirect_to %}
