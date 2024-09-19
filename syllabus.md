@@ -133,7 +133,7 @@ The best of your three shorties will account for 5% of your final grade, and the
 
 ### Objection-reply essays
 
-The tradition of philosophy that now dominates English-speaking philosophy departments (often called “analytic philosophy”) is done characteristically in an *objection-reply style*. In this class, we will practice writing two short essays (2–3 pages each) in that style. These essays also offer opportunities to apply what  you have learned in class to current issues in ways that build on but go beyond our discussions. I will circulate prompts and instructions at least two weeks in advance.
+The tradition of philosophy that now dominates English-speaking philosophy departments (often called “analytic philosophy”) is done characteristically in an *objection-reply style*. In this class, we will practice writing two short essays (2–3 pages each) in that style. These essays also offer opportunities to apply what  you have learned in class to current issues in ways that build on but go beyond our discussions. I will circulate prompts and instructions in advance.
 
 The better of your two objection-reply essays will make up 20% of your final grade, and the other one another 10%.
 
