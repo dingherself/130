@@ -27,11 +27,8 @@ The mechanisms that Davis identifies:
 ## Rape as a tool of capitalism
 
 - For bourgeois/capitalist men: near impunity to rape; sexual access to those working for you is an expression of one’s social standing (and the social conditions of work are set up to facilitate this); sexual and economic exploitation is of a piece.
-
   - One exception is that the likelihood of consequences significantly increases when the rape targets someone of the same social standing.
-
 - The proletarian/working men: some impunity to rape; rape provides otherwise dominated men an opportunity to dominate—“a bribe, an illusory compensation for powerlessness” (p. 29).
-
   - For the white male proletariat in particular: the (hetero)sexism and racism work together to generate a feeling of “racial affinity—or even solidarity—with the bosses he should have been challenging” such that “white workers’ hostilities toward their employers could be defused” (p. 27).
 
 Denialism about rape under socialism? P. 24.
