@@ -8,7 +8,7 @@ module: "Sex"
 
 *The traditional legal theory of rape*: rape is a property offense committed by one man against another man.
 
-*The second-wave feminist response*: rape is a form of male domination over women; it is an offense committed by men as a gender against woman as a gender.
+*The second-wave feminist response*: rape is a form of male domination over women; it is a [sexual vs. violent] offense committed by men as a gender against woman as a gender.
 
 - The biological version (Brownmiller): this is driven by the penis.
 - The political version (MacKinnon): this is driven by heterosexuality as a political institution.
