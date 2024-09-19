@@ -7,5 +7,21 @@ User-agent: Twitterbot
 Allow: /announcements.html
 Allow: /announcements/
 
+User-agent: TelegramBot
+Allow: /announcements.html
+Allow: /announcements/
+
+User-agent: LinkedInBot
+Allow: /announcements.html
+Allow: /announcements/
+
+User-agent: Discordbot
+Allow: /announcements.html
+Allow: /announcements/
+
+User-agent: Applebot
+Allow: /announcements.html
+Allow: /announcements/
+
 User-agent: GPTBot
 Disallow: /
