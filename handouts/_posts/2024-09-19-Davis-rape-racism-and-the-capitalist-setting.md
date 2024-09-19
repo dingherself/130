@@ -32,8 +32,6 @@ The mechanisms that Davis identifies:
 
 - The proletarian/working men: some impunity to rape; rape provides otherwise dominated men an opportunity to dominate—“a bribe, an illusory compensation for powerlessness” (p. 29).
 
-  - For the white male proletariat in particular: the (hetero)sexism and racism work together to generate a feeling of “racial affinity—or even
-
-    solidarity—with the bosses he should have been challenging” such that “white workers’ hostilities toward their employers could be defused” (p. 27).
+  - For the white male proletariat in particular: the (hetero)sexism and racism work together to generate a feeling of “racial affinity—or even solidarity—with the bosses he should have been challenging” such that “white workers’ hostilities toward their employers could be defused” (p. 27).
 
 Denialism about rape under socialism? P. 24.
