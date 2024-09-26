@@ -48,7 +48,7 @@ Trans women actively navigate and resist this social reality, rather than merely
 
 Trans women’s relationship with sex and partnerships is complicated.
 
-- “A social world that incorporated trans women into heterosexuality was a marvel to many trans women of color”
+- “A social world that incorporated trans women into heterosexuality was a marvel to many trans women of color.”
 - “But these relationships could also feel like a degrading necessity.”
 
 What to do? Greene:
