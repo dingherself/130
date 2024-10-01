@@ -9,7 +9,7 @@ module: "Sex"
 The women’s liberation movement fell apart in the 1980s through a series of bitter, intense frictions around sexuality (“the Sex Wars”)—pornography, BDSM, sex work, butch/femme, trans lesbians, and more.
 
 - So far, we have focused on feminist efforts to reform abortion and rape laws in the late 1960s to 70s. These project were more critical than constructive in the sense that they were first and foremost *responses* to women’s material realities.
-- But the bigger-picture question remains: what would it mean/take for women to be free?
+- But the bigger-picture question of positive political vision remains: what would it mean/take for women to be free? what does feminism want?
 
 Two key realizations at this time:
 
