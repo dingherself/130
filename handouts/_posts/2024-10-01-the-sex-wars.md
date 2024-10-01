@@ -14,9 +14,11 @@ The women’s liberation movement fell apart in the 1980s through a series of bi
 Two key realizations at this time:
 
 - Patriarchy/male domination is a real thing: there can’t be liberation unless and until the relationship between the sexes (for feminists back then, the relationship between women and men) is thoroughly transformed.
-- “The personal is political”: This relationship encompasses the personal and the sexual; heterosexual romance and sex in particular replicate male domination by eroticizing it (a man’s relationship to a woman in the bedroom ~ his relationship to her outside of it).
+- “The personal is political”: This relationship encompasses our personal and sexual lives; questions about how to divide household labor, who gets to be the breadwinner/take the lead, etc. are not just questions of preferences but they raise questions of justice.
+  - A worry in particular is that heterosexual romance and sex replicate male domination by eroticizing it: a man’s relationship to a woman in the bedroom mirrors his relationship to her outside of it.
 
-These realizations were soon co-opted by liberal feminism (which led even radical feminists to turn to the law to fight pornography), lesbian separatism (which construed being a lesbian as a political identity), and anti-trans feminism.
+
+This radical project was soon co-opted by liberal feminism (which led even radical feminists to turn to the law to fight pornography), lesbian separatism (which construed being a lesbian as a political identity), and anti-trans feminism.
 
 - This led to pushback that culminated in the 1982 Barnard Conference, shifting the battle line to pro-sex/porn/sex work/BDSM/etc. vs. anti-sex/porn/sex work/BDSM/etc. feminism.
   - We will focus on pornography and lesbian BDSM.
