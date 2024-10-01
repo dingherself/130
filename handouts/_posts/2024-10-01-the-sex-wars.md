@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Sex Wars”"
+title: "The Sex Wars"
 module: "Sex"
 ---
 
