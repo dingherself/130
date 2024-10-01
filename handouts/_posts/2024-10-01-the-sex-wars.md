@@ -22,7 +22,7 @@ This radical project was soon co-opted by liberal feminism (which led even radic
 
 - This led to pushback that culminated in the 1982 Barnard Conference, shifting the battle line to pro-sex/porn/sex work/BDSM/etc. vs. anti-sex/porn/sex work/BDSM/etc. feminism.
   - We will focus on pornography and lesbian BDSM.
-- It also gave us the contemporary public understanding of sexual liberation/revolution: to have more sex, to express previously repressed sexuality.
+- It also gave us the contemporary public understanding of sexual liberation/revolution: to have more sex, to express previously repressed/stigmatized sexuality.
   - But does having more sex make women free?
 
 ## Pornography
