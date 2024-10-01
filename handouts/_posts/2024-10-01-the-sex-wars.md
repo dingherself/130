@@ -33,6 +33,7 @@ MacKinnon’s view of pornography: pornography does not merely depict women’s 
 - Pornography also teaches us how women should be treated and what women are for—men’s pleasure. This legitimizes rape, battery, harassment, objectification, etc.
 - Pornography silences women: literally (e.g., revenge porn) and illocutionarily (e.g., the ‘no’ that fails to be heard as refusal).
 - Feminist porn? erotica? Discuss.
+- Davis/Greene-style critique (Jaila)? Does pornography not also enact racism?
 
 *Playboy*: we are a feminist magazine now—we empower women, give women freedom.
 
