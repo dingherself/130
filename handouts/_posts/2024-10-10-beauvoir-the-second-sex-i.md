@@ -6,7 +6,7 @@ module: "Gender"
 
 ## In-Class Activity
 
-“Among the blessings Plato thanked the gods for was, first, being born free and not a slave and, second, *a man and not a woman*” (pp. –, emphasis mine).
+“Among the blessings Plato thanked the gods for was, first, being born free and not a slave and, second, *a man and not a woman*” (pp. 10–11, emphasis mine).
 
 - Why might one be grateful for this? What does it say about manhood and womanhood?
 - If this were you, would you be grateful as well? And what do you imagine Beauvoir’s answer would be if we posed this question to her?
@@ -15,8 +15,8 @@ module: "Gender"
 
 “Very simple, say those who like simple answers: She is a womb, an ovary; she is a female” (p. 21).
 
-- But this can’t be right: it fails to explain how we think and talk about womanhood (p. ).
-- Rather, being a woman has to do with this “femininity” business: “So not every female human being is necessarily a woman; she must take part in this mysterious and endangered reality known as femininity” (p. ).
+- But this can’t be right: it fails to explain how we think and talk about womanhood (p. 3).
+- Rather, being a woman has to do with this “femininity” business: “So not every female human being is necessarily a woman; she must take part in this mysterious and endangered reality known as femininity” (p. 3).
 
 So, what is this “mysterious” thing called “femininity” or “womanhood”?
 
@@ -41,7 +41,7 @@ Beauvoir’s own answer:
   - Did it not happen? Notice Beauvoir implicit coding of women as white and bourgeois, all while Black people, proletarians, Jewish people, and Indigenous people are assumed to be male.
 - Also not because of nature.
   - Even sexual reproductive does not require a binary system of sex categorization (pp. 21ff).
-  - Brain size example (pp. ff): biological facts “do not carry their meaning in themselves” (p. 46); what matters is the meaning that *we* ascribe to biology.
+  - Brain size example (pp. 40ff): biological facts “do not carry their meaning in themselves” (p. 46); what matters is the meaning that *we* ascribe to biology.
 - Still, what gave men the advantage? 
   - Women are stuck with biological reproduction; men get to create values and meanings (pp. 71–75).
   - Womanhood is a response to a situation.
