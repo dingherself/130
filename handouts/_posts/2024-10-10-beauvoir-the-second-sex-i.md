@@ -20,7 +20,7 @@ module: "Gender"
 
 So, what is this “mysterious” thing called “femininity” or “womanhood”?
 
-- The traditional philosophical answer: it is an immutable nature/essence.
+- The traditional philosophical answer: it is an innate nature/essence.
   - Beauvoir: not reputable.
 - The “American” answer: there is no such thing as “femininity” or “womanhood”; we are all *just* human beings.
   - Beauvoir: not helpful.
