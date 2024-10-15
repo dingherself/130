@@ -60,7 +60,8 @@ The penis, according to Beauvoir:
 
 Contrast this with:
 
-- *The clitoris*: childish, not connected.
+- *The clitoris*: childish, non-penetrative.
 - *The vagina*: lack, mysterious, hidden, moist, bleeds, shameful, “dangerous” with a secret life of its own, personal interest diverging from species interest.
 - *The breast*: for young women, no function other than to stand out, to be looked at.
-- *Sex*: it’s something to be taken by men.
+- *Menstruation*: either joyful or disgusting, shameful, undermining, and defeating,
+- *Sex*: it’s to be taken by men, which turns you from a girl into a woman.
