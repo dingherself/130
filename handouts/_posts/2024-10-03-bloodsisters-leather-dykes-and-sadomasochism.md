@@ -2,7 +2,6 @@
 layout: post
 title: <em>BloodSisters: Leather, Dykes and Sadomasochism</em>
 module: "Sex"
-published: false
 ---
 
 *Please keep an eye out for the following questions, but you are not required to write out answers. The questions are arranged in the rough order in which they come up in the documentary, though do note that sometimes a question may get addressed slightly later on.*
