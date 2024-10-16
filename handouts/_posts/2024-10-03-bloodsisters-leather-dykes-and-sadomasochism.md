@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <em>BloodSisters: Leather, Dykes and Sadomasochism</em>
+title: <em>BloodSisters&#58; Leather, Dykes and Sadomasochism</em>
 module: "Sex"
 ---
 
