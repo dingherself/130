@@ -33,7 +33,7 @@ Possibility for resistance?
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-p9zu{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+<table class="tg" style="margin-top: 1rem; margin-bottom: 1rem;"><thead>
   <tr>
     <th class="tg-baqh"><span style="font-weight:700;font-style:normal;text-decoration:none">Situation</span></th>
     <th class="tg-baqh"><span style="font-weight:700;font-style:normal;text-decoration:none">Response</span></th>
