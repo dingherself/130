@@ -24,9 +24,8 @@ Why the urgency?
 
 - *Sexual orientation development*: With successful surgical interventions, intersex children will develop “appropriate” partner and sexual preference (i.e., PIVI).
 
-- *Trauma of castration*: 
+- *Trauma of castration*: Kessler writes, “Money suggests that if reduction of phallic tissue were delayed beyond the neonatal period, the infant would have traumatic memories of having been castrated. . . . Although physicians speculate about the possible trauma of an early childhood ‘castration’ memory, there is no corresponding concern that vaginal reconstructive surgery delayed beyond the neonatal period is traumatic.”
 
-- Kessler writes, “Money suggests that if reduction of phallic tissue were delayed beyond the neonatal period, the infant would have traumatic memories of having been castrated. . . . Although physicians speculate about the possible trauma of an early childhood ‘castration’ memory, there is no corresponding concern that vaginal reconstructive surgery delayed beyond the neonatal period is traumatic.”
 
 Why not full transparency? Pp. 64–65.
 
@@ -61,10 +60,10 @@ Problems:
 
 How we came to gender the X female & the Y male:
 
-- Privileging the sperm: sperms with the X produce females and those with the Y produce males.
+- *Privileging the sperm*: sperms with the X produce females and those with the Y produce males.
   - But sperms are not sex-determining; only the Y is.
-- The “greater male variation theory”: “While females enjoy the security of a second X, it dulls their potential for extraordinariness. Males are superior where it counts: intelligence.”
-- X mosaicism:
-  - The Barr body: in cells with two X’s, one becomes inactive early on in embryonic development.
+- *The “greater male variation theory”*: “While females enjoy the security of a second X, it dulls their potential for extraordinariness. Males are superior where it counts: intelligence.”
+- *X mosaicism*:
+  - *The Barr body*: in cells with two X’s, one becomes inactive early on in embryonic development.
   - In those with XX chromosomes, about half of their cells express the material X and the other half the paternal X.
   - This genetic mosaicism reinforces social “conceptions of women as more mysterious, contradictory, complicated, emotional, or changeable.”
