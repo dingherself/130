@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gendering Sex: The Sociology of Sex
+title: "Gendering Sex: The Sociology of Sex"
 module: "Gender"
 ---
 
