@@ -95,7 +95,7 @@ Serano’s own experiences:
 - Analogy with sexual orientation (pp. 89–90)
 - Transphobia vs. cissexism (pp. 91–93)
 - Starting transition, but still avoiding the label “woman” (pp. 216–19)
-- Coming to identify as a woman: change in gender identity is *preceded* by changes in physical sex (pp. 220–22) and in social gender (p. 222–24)
+- Coming to identify as a woman: change in gender identity is *preceded* by changes in physical sex (pp. 220–22) and in social gender (pp. 222–24)
 
 ## Serano’s error theory
 
