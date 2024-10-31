@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brownmiller, <em>Against Our Will</em>
+title: Susan Brownmiller, <em>Against Our Will</em>
 module: "Sex"
 date: 2024-09-12 01:00:00 MST
 ---
