@@ -83,7 +83,7 @@ Three moving parts:
 - *Experiential gender*: the gender one experiences oneself as.
 - *Gender identity*: the gender category one consciously embraces.
 
-<p align="center"><a href="{{ site.baseurl }}{% link assets/serano.jpg %}" target="_blank"><img class="img-fluid" src="{{ site.baseurl }}{% link assets/serano.jpg %}" alt="Diagram: There are three boxes connected in a feedback loop. Box 1 is connected via an arrow to Box 2; Box 2 is connected via an arrow to Box 3; and Box is connected via an arrow back to Box 1. Box 1 reads “subconscious sex, social gender, and sexual and gender expression.” Box 2 reads “Experiential gender.” Box 3 reads “gender identity.”"></a></p>
+<p align="center"><a href="{{ site.baseurl }}{% link assets/serano.jpg %}" target="_blank"><img class="img-fluid" src="{{ site.baseurl }}{% link assets/serano.jpg %}" alt="Diagram: There are three boxes connected in a feedback loop. Box 1 is connected via an arrow to Box 2; Box 2 is connected via an arrow to Box 3; and Box is connected via an arrow back to Boxes 1 and 2. Box 1 reads “subconscious sex, social gender, and sexual and gender expression.” Box 2 reads “Experiential gender.” Box 3 reads “gender identity.”"></a></p>
 
 Serano’s own experiences:
 
