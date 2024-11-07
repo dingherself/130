@@ -11,7 +11,7 @@ Medical establishment: “gender identity disorder”
 - Trans people are confused: conflating sex and gender.
 - “Manipulative”: Agnes’s case (Harold Garfinkel, UCLA Gender Clinic, 1967).
 - Pathologization: “mismatch” between body and identity is a “correctable problem.”
-- Goal is maintenance (creation? cf. Christine Jorgensen) of dominant gender/sexuality system: racialized attractiveness/ability to pass, perfect heterosexuality, perfect performance of gender, plausible backstory, invisibility.
+- Goal is maintenance (creation? cf. Christine Jorgensen) of dominant gender/sexuality system: racialized attractiveness/ability to pass, perfect heterosexuality, perfect performance of gender (“role appropriateness”), plausible backstory, invisibility.
 - Gatekeeping: access to medical care is used as carrot *and* stick.
 - Weird, masculinized “playing God”: the surgeon’s power to create manhood/womanhood itself.
 - Trans people’s response:
@@ -63,3 +63,8 @@ Bettcher’s diagnosis (according to Ding):
     - Wrong-body theory: “That’s *really* a man, disguised by a misleading body.”
     - Beyond-the-binary theory: ??
   - Is the problem with the reality/appearance contrast itself, or a specific implementation of it which connects gender presentation with genital status?
+
+## Trans Philosophy Today
+
+- [The Trans Philosophy Project](https://www.transphilosophyproject.com/)
+- [The Canadian Society for Trans Philosophy](https://cstp.lgbt/)
