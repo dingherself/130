@@ -95,7 +95,7 @@ module: "Love"
 4. So, to desire something you can’t have that thing already (from 1–3).
 5. Love desires something beautiful not ugly (201a).
 6. So, “Love needs beauty, then, and does not have it” (201b) (from 4–5).
-7. So, Love is not beautiful (from 6). (Agathon: “It turns out, Socrates, I didn’t know what I was talking about in that Speech” (201c).)
+7. So, Love is not beautiful (from 6). (Agathon: “It turns out, Socrates, I didn’t know what I was talking about in that speech” (201c).)
 8. Also, everything good is beautiful (201c).
 9. Since Love desires beautiful things, it then also desires good things (201c) (from 5, 8).
 10. So, Love also needs but doesn’t have these good things (from 4, 9).
