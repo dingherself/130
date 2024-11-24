@@ -44,7 +44,7 @@ The following are some models representing a diverse range of styles, formats, a
 - Sophie Lewis, [“Escape from Love Island,”](https://www.lrb.co.uk/blog/2023/january/escape-from-love-island) *London Review of Books*, January 20, 2023.
 - Sophie Lewis, [“The Case for Abolishing the Family,”](https://iai.tv/articles/the-case-for-abolishing-the-family-auid-2267) *Institute of Art and Ideas*, October 14, 2022.
 - Amia Srinivasan, [“Who Lost the Sex Wars?”](https://www.newyorker.com/magazine/2021/09/13/who-lost-the-sex-wars) *New Yorker*, September 6, 2021.
-- Kate Manne, [“Women Can Have a Little Power, as a Treat,”](https://www.nytimes.com/2020/07/28/opinion/biden-vice-president-woman.html) *New York Times*, July 28, 2020.
+- Kate Manne, [“Women Can Have a Little Power, as a Treat,”](https://www.nytimes.com/2020/07/28/opinion/biden-vice-president-woman.html?unlocked_article_code=1.cU4.AdfV.CylySjm1JR-m&smid=url-share) *New York Times*, July 28, 2020.
 - Alexandra Petri, [“Save Us from Women’s Shoulders, Missouri State Legislature!”](https://web.archive.org/web/20230113192227/https://www.washingtonpost.com/opinions/2023/01/13/missouri-legislature-dress-code-cardigan-satire/) *Washington Post*, January 13, 2023.
 - Julia Serano, [“What I Learned about Street Harassment after I Transitioned,”](https://www.theguardian.com/world/2022/may/16/street-harassment-women-public) *Guardian*, May 16, 2022.
 - Chase Strangio, [“Trans Visibility Is Nice. Safety Is Even Better.”](https://www.nytimes.com/2024/02/15/opinion/trans-visibility-legislative-rights.html?unlocked_article_code=1.bE4.mSIL.itA_jnNNWmHM&smid=url-share) *New York Times*, February 15, 2024. 
