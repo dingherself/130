@@ -51,4 +51,4 @@ The following are some models representing a diverse range of styles, formats, a
 
 ## Wild Card
 
-*Assignment*: With instructor permission, you may also decide to write a research paper or another creative project (a zine, a play, a board game, a short story, a video essay, a mini-album, a podcast episode, an exhibit, a website or an application, a reenactment, an alternative history, etc.). You must discuss your wild card idea with me by Tuesday, December 3.
+*Assignment*: With instructor permission, you may also decide to write a research paper or pursue another creative project (a zine, a play, a board game, a short story, a video essay, a mini-album, a podcast episode, an exhibit, a website or an application, a reenactment, an alternative history, etc.). You must discuss your wild card idea with me by Tuesday, December 3.
