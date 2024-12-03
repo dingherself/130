@@ -6,7 +6,7 @@ module: "Love"
 
 ## In-Class Activity
 
-1. What does it mean for a woman to be in love? And what does it mean for a woman to be in love?
+1. What does it mean for a man to be in love? And what does it mean for a woman to be in love?
 2. Do men and women love women the same way? Do women love men and women the same way?
 3. If love requires equality and reciprocity but women and men are not equal in our society, can there truly be love?
 
@@ -39,7 +39,7 @@ The heterosexual woman loves by making herself the desirable object to be loved 
 - *Impossibility*: men are interested in other consciousnesses, not things; also men are not gods and cannot set women free (“You shouldn’t believe in Prince Charming. Men are just poor things.”).
 - *Disillusion*: love is a false path to salvation sold to women.
 
-Authentic love requires lovers to see and treat each other as equals. Is this even possible in our society?
+If authentic love requires lovers to see and treat each other as equals, is this even possible in our society?
 
 ## The Lesbian
 
