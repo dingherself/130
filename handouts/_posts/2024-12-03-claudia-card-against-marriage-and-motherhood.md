@@ -37,10 +37,7 @@ module: "Love"
    - Should queer people want to be trapped too?
 3. The state would recognize up to one partner per person.
    - Card: this is a fundamental incompatibility with many (both mono- and polyamorous) queer relationships.
-
-   - “[M]y partner of the past decade is not a domestic partner. She
-
-     and I form some kind of fairly common social unit which, so far as I know, remains nameless. Along with such namelessness goes a certain invisibility, a mixed blessing to which I will return. We do not share a domicile (she has her house; I have mine). Nor do we form an economic unit (she pays her bills; I pay mine). Although we certainly have fun together, our relationship is not based simply on fun. . . . We know a whole lot about each other’s lives that the neighbors and our other friends will never, know. In times of trouble, we are each other’s first line of defense, and in times of need, we are each other’s main support. Still, we are not married. Nor do we yearn to marry.”
+   - “[M]y partner of the past decade is not a domestic partner. She and I form some kind of fairly common social unit which, so far as I know, remains nameless. Along with such namelessness goes a certain invisibility, a mixed blessing to which I will return. We do not share a domicile (she has her house; I have mine). Nor do we form an economic unit (she pays her bills; I pay mine). Although we certainly have fun together, our relationship is not based simply on fun. . . . We know a whole lot about each other’s lives that the neighbors and our other friends will never, know. In times of trouble, we are each other’s first line of defense, and in times of need, we are each other’s main support. Still, we are not married. Nor do we yearn to marry.”
 4. Marriage is in important part about creating a “legal rights of access that married partners have to each other’s persons, property, and lives.”
 
    - “More important than sexual access, marriage gives spouses physical access to each other’s residences and belongings, and it gives access to information about each other, including financial status, that other friends and certainly the neighbors do not ordinarily have. For all that has been said about the privacy that marriage protects, what astonishes me is how much privacy one gives up in marrying.”
