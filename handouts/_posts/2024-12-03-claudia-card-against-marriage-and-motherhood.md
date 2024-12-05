@@ -18,9 +18,7 @@ module: "Love"
 
 - To oppose marriage and motherhood as social institutions is also not to deny that excluding queer people from them is wrong.
 
-  - “Suppose that slave-owning in some mythical society were denied to otherwise free women, on the ground that such women as slave-owners would pervert the institution of slavery. . . . It would not follow that women should fight for the right to own slaves, or even for the rights of other women to own slaves. Likewise, if
-
-    marriage is a deeply flawed institution, even though it is a special injustice to exclude lesbians and gay men arbitrarily from participating in it, it would not necessarily advance the cause of justice on the whole to remove the special injustice of discrimination.”
+  - “Suppose that slave-owning in some mythical society were denied to otherwise free women, on the ground that such women as slave-owners would pervert the institution of slavery. . . . It would not follow that women should fight for the right to own slaves, or even for the rights of other women to own slaves. Likewise, if marriage is a deeply flawed institution, even though it is a special injustice to exclude lesbians and gay men arbitrarily from participating in it, it would not necessarily advance the cause of justice on the whole to remove the special injustice of discrimination.”
 
 - What’s distinctive—and problematic—about our way of organizing long-term intimate relationships and the caretaking of children is how their legitimacies are defined and controlled by state power.
 
