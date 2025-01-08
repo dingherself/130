@@ -61,16 +61,16 @@ Phil 130 achieves these learning outcomes by exploring major ideas, theories, an
 
 You will need to acquire the following texts on your own or from the campus bookstore. As we will discuss them frequently in class, I will ask you to get hard copies if you can; there are usually excellent bargains from used bookstores.
 
-- Simone de Beauvoir, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier (New York: Vintage Books, 2011). Paperback, 978-0307277787, \$20.00.
-
-<div class="alert alert-light" role="alert">
-  <span style="font-size: 0.93rem;">NB: Edition/translation is important.</span>
-</div>
-
 - Plato, *Symposium*, trans. Alexander Nehamas and Paul Woodruff (Indianapolis, IN: Hackett, 1989). Paperback, 978-0872200760, \$11.00.
 
 <div class="alert alert-light" role="alert">
   <span style="font-size: 0.93rem;">NB: Other editions/translations also work, but make sure you get one with those <a href="https://web.archive.org/web/20240606005527/https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>really</em> serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson, eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</span>
+</div>
+
+- Simone de Beauvoir, *The Second Sex*, trans. Constance Borde and Sheila Malovany-Chevallier (New York: Vintage Books, 2011). Paperback, 978-0307277787, \$20.00.
+
+<div class="alert alert-light" role="alert">
+  <span style="font-size: 0.93rem;">NB: Edition/translation is important.</span>
 </div>
 
 I will make all other required readings available digitally. If there are any barriers (technical, financial, etc.) that make it difficult for you to access any of the texts, please don’t be afraid to let me know.
