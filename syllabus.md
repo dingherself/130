@@ -38,7 +38,7 @@ date: 2024-09-19
 
 ## Course Overview
 
-What is sex? Is it a mere accident that the English term ‘sex’ refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about pregnancy, sexuality, consent, desire, pleasure, and love in connection to sexual autonomy and gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
+What is sex? Is it a mere accident that the English term ‘sex’ refers to both an activity and a system of categorization? How does sex relate to gender and love, and how might the experiences of queer and trans people both complicate and illuminate these connections? What counts as having sex in the first place, and what counts as having good sex? How should we think about pregnancy, sexuality, desire, and love in connection to gender equality? This course surveys these central questions about sex, gender, and love, and in so doing, aims to introduce students to the burgeoning interdisciplinary field of social philosophy.
 
 ## Expected Learning Outcomes
 
@@ -46,7 +46,7 @@ In Phil 130, students will learn to
 
 1. Analyze major conceptual and normative issues about sex, gender, and love;
 2. Charitably interpret and critically assess philosophical texts and arguments;
-3. Compose original, well-reasoned essays in response to philosophical questions about sex, gender, and love;
+3. Compose well-reasoned analyses in response to philosophical questions about sex, gender, and love;
 4. Discuss ways in which philosophical analysis and contemporary social justice movements may shed novel light on each other;
 5. Discuss ways in which philosophical reflection may help to clarify and express minority experiences that are otherwise masked by oppressive social structures.
 
@@ -55,15 +55,7 @@ Phil 130 is an Exploring Perspectives–Humanist course with a Diversity & Equit
 - *General Education: Exploring Perspectives–Humanist*. Students will identify the approaches and methodologies of the humanist perspective, use evidence and/or knowledge generated within the humanist perspective to critically analyze questions, ideas, and/or arguments, and describe contributions of the humanist perspective to finding solutions to global and/or local challenges.
 - *General Education: Diversity & Equity (U.S. Context)*. Students will demonstrate knowledge of how historical and contemporary populations have experienced inequality, considering diversity, power, and equity through disciplinary perspectives to reflect upon how various communities experience privilege and/or oppression/marginalization and theorize how to create a more equitable society. Our course will focus on the context of the United States.
 
-## Course Objectives
-
 Phil 130 achieves these learning outcomes by exploring major ideas, theories, and controversies surrounding sex, gender, and love, with a view to the centrality of these issues to both feminist theory and lived experiences (especially the lived experiences of queer and trans people of color, who are particularly marginalized in philosophical theorizing).
-
-Our class is organized into three parts, one for each of our themes. In the part on sex, we will begin with the current politics and law of pregnancy in light of the Supreme Court’s recent decision in *Dobbs v. Jackson Women’s Health Organization* (2022) to revoke the federal constitutional right to abortion. Of particular interest to us here is the role played by race and the U.S.-Mexico borderlands in the current public framing of abortion access, as well as the emerging problem of how best to theorize the connection between pregnancy and gender in a way that reconciles second-wave feminist and trans feminist politics. Next, we will turn to issues of sexuality, where we will examine the formulation of the feminist political analysis of sex and think through its difficulty in speaking to the experiences of cis and trans women of color. This leads us straight to the “Sex Wars” in the wake of the 1982 Conference on Sexuality at Barnard College. We will focus on two major, bitter controversies: the radical feminist opposition to pornography and an even broader feminist opposition to lesbian sadomasochism.
-
-In Part II, we will go further back into history and reconsider the contributions of Beauvoir’s *The Second Sex*. While Beauvoir is read standardly as introducing something like a sex/gender distinction, we will think about whether that reading in fact holds up and what implications that might have on our understanding of sex and gender today. We will then draw on the experiences of intersex and trans people to reevaluate the now-standard formulation of the sex/gender distinction itself, on which sex is the biology and gender its social meaning. Could it be that sex also has as much to do with social meaning and gender with biology?
-
-Finally, we will consider what it means to love—personally, conceptually, and politically. Would love make us happier? better? more complete? If love is such a good thing, should we ever restrict our love to just one person? How can we love under conditions of oppression and injustice? Is marriage equality a victory for queer people? trans people? As we take up these questions, we will also keep our imagination open for what love could hold for the future.
 
 ## Required Texts
 
@@ -80,20 +72,16 @@ You will need to acquire the following texts on your own or from the campus book
 <div class="alert alert-light" role="alert">
   <span style="font-size: 0.93rem;">NB: Other editions/translations also work, but make sure you get one with those <a href="https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>really</em> serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson, eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</span>
 </div>
-
-- Catharine A. MacKinnon, *Feminism Unmodified: Discourses on Life and Law* (Cambridge, MA: Harvard University Press, 1987). Paperback, 978-0674298743, \$25.00.
-
 I will make all other required readings available digitally. If there are any barriers (technical, financial, etc.) that make it difficult for you to access any of the texts, please don’t be afraid to let me know.
 
 ## Assessment
 
 Final course grades will be awarded on the following basis:
 
-- [Participation](#participation): 15%
-- [Course lexicon](#course-lexicon): 15%
-- Reading discussions, or [“shorties”](#shorties): 10%
-- [Objection-reply essays](#objection-reply-essays): 30%
-- [Final project](#final-project): 30%
+- [Participation](#participation): 10%
+- [Course lexicon](#course-lexicon): 10%
+- [Three exams](#exams): 60%
+- [Final project](#final-project): 20%
 
 All course requirements must be completed in order to pass this class. **An F received on any work due to academic dishonesty is grounds for an F in the course.**
 
@@ -113,41 +101,33 @@ It’s useful to keep in mind that philosophical writing is, at bottom, argument
 - Identify the view the author is defending and the argument they are offering in support of their view (be careful to distinguish passages where the author is speaking for themself and where they are explaining another author’s view or considering objections!), and write down thoughts and questions in the margin as you react to each step in the argument.
 - Ask yourself if you think what the author is saying is not only plausible but well-argued. If not, think about why not: Is it because the author’s argument relies on a false premise, or is it because the author’s reasoning is fallacious? Is there a more plausible or more arguable way of formulating the point the author hopes to make? Are there countervailing considerations, alternative positions, or further complications that the author fails to take into account? Even if you agree with the author, try to anticipate objections that other readers may reasonably raise and think about how you can respond to them on the author’s behalf.
 
-For this class, I will use in-class activities (which will be graded on a check-plus/check/check-minus/fail basis) to establish a baseline participation grade, and then move up or down taking into account preparation, engagement, contribution, and [respect for others](#respect-support-and-care-for-one-another). Class participation will make up 15% of your final grade.
+For this class, I will use in-class activities (which will be graded on a check-plus/check/check-minus/fail basis) to establish a baseline participation grade, and then move up or down taking into account preparation, engagement, contribution, and [respect for others](#respect-support-and-care-for-one-another). Class participation will make up 10% of your final grade.
 
 ### Course lexicon
 
-Throughout this semester, please keep a running lexicon of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot them down in your notes as you go, though the versions that you turn in should be typed and cleaned up.
+Throughout this semester, please keep a running lexicon of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot them down in your notes as you go, though the versions that you turn in should be typed and cleaned up, and it should include not only a list of terms but their definitions/explanations (verbal or visual).
 
-I will ask everybody to turn in a midterm version of their lexicon. This midterm version is merely a progress check and will not be graded; however, failure to turn one in on time will be penalized by up to a full letter grade (10%) on the final version.
+I will ask everybody to turn in a partial version of their lexicon after each of the first two parts of the class. This is merely a progress check and will not be graded; however, failure to turn both in on time will be penalized by up to a full letter grade (10%) on the final version.
 
-The final version of the lexicon should be comprehensive and will make up 15% of your final grade.
+The final version of the lexicon you turn in at the end of the course should be comprehensive and will make up 10% of your final grade.
 
-### Shorties
+### Exams
 
-For three classes this semester, you will be asked to write a short discussion post responding to that day’s readings. These “shorties” are a beloved tradition of Arizona Philosophy. They should ideally be 150–250 words, and definitely no more than 500 words (for reference, this subsection on shorties is just about 250 words). They are due to the [D2L discussion board](https://d2l.arizona.edu/d2l/le/1453095/discussions/List) **by noon the day before the class**. You may choose any three classes to write shorties for, as long as you do at least one of them before the midterm version of the course lexicon is due and at least one after.
+There will be an exam after each part of the class. Study guides, including possible essay prompts, will be distributed in advance. The last exam is not comprehensive, and will be of the same format as the other two exams.
 
-The purpose of the shorties is threefold: they invite you to critically engage with the readings, offer low-stakes opportunities for you to learn to do philosophy through writing, and will inform and shape our discussions in class. The shorties are not summaries. Instead, try to raise a question (and consider how the author might wish to answer it!), motivate a puzzle or a worry, defend a view against a worry, connect the reading to an idea or argument we discussed previously, or apply it to a current context, a historical event, or your own lived experience and see how it holds up. If there are two or more readings for a given class, you may choose to either focus on one of them or reflect on a broader theme/common thread.
-
-The best of your three shorties will account for 5% of your final grade, and the other two each another 2.5%.
-
-### Objection-reply essays
-
-The tradition of philosophy that now dominates English-speaking philosophy departments (often called “analytic philosophy”) is done characteristically in an *objection-reply style*. In this class, we will practice writing two short essays (2–3 pages each) in that style. These essays also offer opportunities to apply what  you have learned in class to current issues in ways that build on but go beyond our discussions. I will circulate prompts and instructions in advance.
-
-The better of your two objection-reply essays will make up 20% of your final grade, and the other one another 10%.
+These three exams will each account for 20% of your final grade.
 
 ### Final project
 
 You are required to complete a final project for this course. This can be either a traditional final paper or an equally substantial creative project of your choosing---for example, you might want to make a zine, create educational materials on an issue, write a play, design a board game, draft a short story or a piece of public writing, script and produce a video essay, record a mini-album, publish a podcast episode, curate an exhibit, build a website or an application, reenact a story or a moment, imagine an alternative history, illustrate an argument or debate, or profile a community member (really, the sky’s the limit!). My hope is that the flexibility of the format will allow you to further engage with our course materials in a way that suits and reflects your own interests.
 
-While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own---if this is something you would like to do, please meet with me **by Thursday, November 14** to discuss your ideas. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Tuesday, December 17**.
+While I will provide prompts for both the paper and open options, you are also more than welcome to work with me to craft your own—if this is something you would like to do, please meet with me **by Wednesday, April 23** to discuss your idea. If we can both see a workable final project, I will then ask you to write up a short project proposal to finalize it. You are not required to get my permission or submit a proposal if you decide to pursue one of the pre-circulated prompts. Either way, the final project is due **by 11:59pm on Thursday, May 15**.
 
-The final project will make up 30% of your final grade.
+The final project will make up 20% of your final grade.
 
 ## Honors Credit
 
-If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Thursday, September 12**—to discuss it. The honors contract will require you to complete an independent project that explores one of our course themes in greater depth. For our class, I’m happy to supervise an additional final project or a more substantial, research-based term paper in lieu of the regular final project (come talk to me about your ideas!). More information can be found at <https://honors.arizona.edu/academics/honors-contracts>{: .text-break}.
+If you would like to take this class for honors credit, please contact me as early as possible—and definitely **by Wednesday, February 5**—to discuss it. The honors contract will require you to complete an independent project that explores one of our course themes in greater depth. For our class, I’m happy to supervise an additional final project or a more substantial, research-based term paper in lieu of the regular final project (come talk to me about your ideas!). More information can be found at <https://honors.arizona.edu/academics/honors-contracts>{: .text-break}.
 
 ## Excused Absences
 

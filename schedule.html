@@ -3,7 +3,7 @@ layout: table
 title: Schedule
 group: navigation
 order: 10
-date: 2024-11-06
+date: 2025-01-07
 ---
 
 <h1>Schedule</h1>
@@ -30,6 +30,8 @@ date: 2024-11-06
   </table>
 
 <script>
+  moment.updateLocale('en', { weekdaysMin: 'U_M_T_W_R_F_S'.split('_') });
+  moment().format('dd');
   var groupColumn = 1;
   new DataTable('#scheduleTable', {
     responsive: true,
@@ -38,7 +40,8 @@ date: 2024-11-06
       {
         targets: 0,
         render: DataTable.render.datetime('M/D (dd)'),
-        className: 'dt-head-left dt-body-left'
+        className: 'dt-head-left dt-body-left',
+        width: '100px'
       },
       {
         targets: -1,

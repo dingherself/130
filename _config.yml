@@ -53,22 +53,22 @@ future: true
 
 # Course
 institution:            "the University of Arizona"
-semester:              "Fall 2024"
+semester:              "Spring 2025"
 course_number:  "Phil 130"
 course_title:         "Sex, Gender, and Love"
 course_title_full:  "Sex, Gender, and Love: An Introduction to Social Philosophy"
 instructor:            "Ding"
 instructor_website: "https://dingherself.com"
 office:                   "Social Sciences 138"
-office_hours:       "Tu 2:45–4:15pm, and by appointment"
-meeting_time:     "TuTh 9:30–10:45am"
-classroom:            "Harvill 305"
-learning_site:       "https://d2l.arizona.edu/d2l/home/1453095"
-ta_title: "Grader"
-ta_name: "Ryan Hauger (he/him)"
-ta_netid: "ryanellishauger"
-ta_office: "TBD"
-ta_office_hours: "By appointment"
+office_hours:       "M 11:00–12:30, and by appointment"
+meeting_time:     "MW 9:30–10:45"
+classroom:            "Civil Engineering 201"
+learning_site:       "https://d2l.arizona.edu/d2l/home/1555706"
+#ta_title: "Grader"
+#ta_name: "Ryan Hauger (he/him)"
+#ta_netid: "ryanellishauger"
+#ta_office: "TBD"
+#ta_office_hours: "By appointment"
 
 # Custom variables
 #current_version:      4.0.0
