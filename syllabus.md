@@ -70,8 +70,9 @@ You will need to acquire the following texts on your own or from the campus book
 - Plato, *Symposium*, trans. Alexander Nehamas and Paul Woodruff (Indianapolis, IN: Hackett, 1989). Paperback, 978-0872200760, \$11.00.
 
 <div class="alert alert-light" role="alert">
-  <span style="font-size: 0.93rem;">NB: Other editions/translations also work, but make sure you get one with those <a href="https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>really</em> serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson, eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</span>
+  <span style="font-size: 0.93rem;">NB: Other editions/translations also work, but make sure you get one with those <a href="https://web.archive.org/web/20240606005527/https://library.villanova.edu/research/subject-guides/citing-your-sources/frequently-used-styles/mla/citing-plato-mla-style">quirky little page numbers in the left/right margins</a> (they are called “Stephanus numbers” and are consistent across editions). And if you are <em>really</em> serious about your bookshelf, consider getting John M. Cooper and D. S. Hutchinson, eds., <em>Plato: Complete Works</em> (Indianapolis, IN: Hackett, 1997).</span>
 </div>
+
 I will make all other required readings available digitally. If there are any barriers (technical, financial, etc.) that make it difficult for you to access any of the texts, please don’t be afraid to let me know.
 
 ## Assessment
@@ -107,7 +108,7 @@ For this class, I will use in-class activities (which will be graded on a check-
 
 Throughout this semester, please keep a running lexicon of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot them down in your notes as you go, though the versions that you turn in should be typed and cleaned up, and it should include not only a list of terms but their definitions/explanations (verbal or visual).
 
-I will ask everybody to turn in a partial version of their lexicon after each of the first two parts of the class. This is merely a progress check and will not be graded; however, failure to turn both in on time will be penalized by up to a full letter grade (10%) on the final version.
+I will ask everybody to turn in a partial version of their lexicon after each of the first two parts of the class. This is merely a progress check and will not be graded; however, failure to turn either in on time will be penalized by up to a full letter grade (10%) on the final version.
 
 The final version of the lexicon you turn in at the end of the course should be comprehensive and will make up 10% of your final grade.
 
