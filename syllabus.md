@@ -3,7 +3,7 @@ layout: toc
 title: Syllabus
 group: navigation
 order: 5
-date: 2024-09-19
+date: 2025-01-08
 ---
 
 <h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
