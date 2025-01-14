@@ -5,9 +5,9 @@ title:  "Preparing for Our First Day of Class"
 
 Dear class,
 
-I’m looking forward to meeting you all on Wednesday!
+I’m looking forward to meeting you all tomorrow!
 
-If you have not already, be sure to:
+If you have not already, please be sure to:
 
 - review the course syllabus, reading schedule, and my first announcement (all available on [our course website](https://130.dingthemself.com/));
 - read the short article assigned for Wednesday (see the reading schedule);
