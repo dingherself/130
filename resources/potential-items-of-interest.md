@@ -16,5 +16,6 @@ order: 10
 - Cheshire Calhoun, [“The Undergraduate Pipeline Problem,”](http://ezproxy.library.arizona.edu/login?url=https://www.jstor.org/stable/20618157) *Hypatia* (2009)
 - Katrina Hutchison and Fiona Jenkins, eds., [*Women in Philosophy: What Needs to Change?*](https://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1093/acprof:oso/9780199325603.001.0001) (New York: Oxford University Press, 2013)
 - Cristan Williams, [“Radical Inclusion: Recounting the Trans Inclusive History of Radical Feminism,”](http://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1215/23289252-3334463) *TSQ: Transgender Studies Quarterly* (2016)
+- Amy Marvin, “[A Brief History of Trans Philosophy](https://contingentmagazine.org/2019/09/21/trans-philosophy/),” *Contingent Magazine* (2019)
 - Robin Dembroff, [“Cisgender Commonsense and Philosophy’s Transgender Trouble,”](http://ezproxy.library.arizona.edu/login?url=https://doi.org/10.1215/23289252-8553048) *TSQ* (2020)
 - Perry Zurn and Andrea Pitts, eds., [“Trans Philosophy: The Early Years,”](https://www.apaonline.org/resource/collection/B4B9E534-A677-4F29-8DC9-D75A5F16CC55/LGBTQV20n1.pdf#page=2) interview with Talia Mae Bettcher, Loren Cannon, Miqqi Alicia Gilbert, and C. Jacob Hale, *APA Newsletter on LGBTQ Issues in Philosophy* (2020)
