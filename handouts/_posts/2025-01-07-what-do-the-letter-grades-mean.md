@@ -20,7 +20,7 @@ And that last thing is important—I think of numerical scores as *translations*
 
 - B+: This is very strong work that shows a lot of promise. Not only is it thoughtful, interesting, well-written, and genuinely reflective of the serious effort that went into it, but there are moments of genuine insight that, if developed more fully, would make the work stand out even more.
 - B: This is fully competent work that demonstrates a clear, nuanced grasp of the relevant materials. While there may be some minor mistakes, misunderstandings, or obscurities here and there, they are nothing serious.
-- B-: This is the baseline grade that I expect from a class like this. The work is solid, does what it’s asked to do, and shows an overall good understanding of the relevant materials. But perhaps the point it’s making might be a little too obvious in a way that does not go that far beyond our class discussions, perhaps some aspect of the analysis or argument feels rather undeveloped or superficial, perhaps there are some notable mistakes or misunderstandings, or perhaps the writing can sometimes be hard to follow,
+- B-: This is the baseline grade that I expect from a class like this. The work is solid, does what it’s asked to do, and shows an overall good understanding of the relevant materials. But perhaps the point it’s making might be a little too obvious in a way that does not go that far beyond our class discussions, perhaps some aspect of the analysis or argument feels rather undeveloped or superficial, perhaps there are some notable mistakes or misunderstandings, perhaps the writing can sometimes be hard to follow, etc.
 
 ## Satisfactory
 
@@ -28,8 +28,8 @@ And that last thing is important—I think of numerical scores as *translations*
 
 ## Pass
 
-- D+/D/D-: This is where the writing starts not to make that much sense. Not sure what’s going on, difficult to get through, but still responsive to the prompt.
+- D+/D/D-: This is where the writing starts not to make sense. It may not be clear what’s going on. The writing may be difficult to get through. But overall the work is still responsive to the prompt.
 
 ## Fail
 
-- E/F: Failing grades are given to work that is not relevant, fails to follow the prompt/instructions, or engages in academic misconduct (e.g., plagiarism).
+- E/F: Failing grades are given to work that (1) is not relevant, (2) fails to follow the prompt/instructions, or (3) engages in academic misconduct (e.g., plagiarism).
