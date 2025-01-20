@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plans for Wednesday"
+title:  "Plans for Wednesday, 1/22"
 ---
 
 Dear class,
