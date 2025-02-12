@@ -15,13 +15,9 @@ module: "Love"
 *Starting point*: marriage is a historically and culturally specific way to socially organize long-term intimate relationships; motherhood is a historically and culturally specific way to socially organize the caretaking of children.
 
 - To oppose marriage as a social institution is not to oppose long-term intimate relationships; to oppose motherhood as a social institution is not to oppose the caretaking of children.
-
 - To oppose marriage and motherhood as social institutions is also not to deny that excluding queer people from them is wrong.
-
   - “Suppose that slave-owning in some mythical society were denied to otherwise free women, on the ground that such women as slave-owners would pervert the institution of slavery. . . . It would not follow that women should fight for the right to own slaves, or even for the rights of other women to own slaves. Likewise, if marriage is a deeply flawed institution, even though it is a special injustice to exclude lesbians and gay men arbitrarily from participating in it, it would not necessarily advance the cause of justice on the whole to remove the special injustice of discrimination.”
-
 - What’s distinctive—and problematic—about our way of organizing long-term intimate relationships and the caretaking of children is how their legitimacies are defined and controlled by state power.
-
   - It is not the ceremony but the state that marries us.
   - It is not childcare labor but the state that determines legitimate motherhood.
 
@@ -39,7 +35,6 @@ module: "Love"
    - Card: this is a fundamental incompatibility with many (both mono- and polyamorous) queer relationships.
    - “[M]y partner of the past decade is not a domestic partner. She and I form some kind of fairly common social unit which, so far as I know, remains nameless. Along with such namelessness goes a certain invisibility, a mixed blessing to which I will return. We do not share a domicile (she has her house; I have mine). Nor do we form an economic unit (she pays her bills; I pay mine). Although we certainly have fun together, our relationship is not based simply on fun. . . . We know a whole lot about each other’s lives that the neighbors and our other friends will never, know. In times of trouble, we are each other’s first line of defense, and in times of need, we are each other’s main support. Still, we are not married. Nor do we yearn to marry.”
 4. Marriage is in important part about creating a “legal rights of access that married partners have to each other’s persons, property, and lives.”
-
    - “More important than sexual access, marriage gives spouses physical access to each other’s residences and belongings, and it gives access to information about each other, including financial status, that other friends and certainly the neighbors do not ordinarily have. For all that has been said about the privacy that marriage protects, what astonishes me is how much privacy one gives up in marrying.”
    - This kind of access is risky—people get abused and even killed—but “in our society there is greater concern for victims of bad driving than for those of bad marriages. . . . Driving without the requisite skills and scruples is recognized as a great danger to others and treated accordingly. No comparable recognition is given the dangers of legally sanctioning the access of one person to the person and life of another without evidence of the relevant knowledge and scruples of those so licensed.”
 
