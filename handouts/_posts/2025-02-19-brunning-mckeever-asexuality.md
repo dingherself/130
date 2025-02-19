@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luke Brunning and Natasha McKeever, “Asexuality”"
+title: "Luke Brunning & Natasha McKeever, “Asexuality”"
 module: "Love"
 ---
 
