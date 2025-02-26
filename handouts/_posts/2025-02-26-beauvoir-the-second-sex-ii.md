@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beauvoir, <em>The Second Sex</em> – I
+title: Beauvoir, <em>The Second Sex</em> – II
 module: "Gender"
 ---
 
