@@ -43,7 +43,7 @@ Beauvoir’s own answer:
 - Generally: “It is often numerical inequality that confers this privilege: the majority imposes its law on or persecutes the minority.”
   - Is this right?
   - Women don’t have a numerical disadvantage.
-- Women’s subordination “is not the consequence of an event or a becoming, it did not *happen*” (p. 8, her emphasis).
+- Women’s subordination “is not the consequence of an event or a becoming, it did not *happen*” (p. 8, her emphasis); it is *ahistorical*.
   - Did it not happen? Notice Beauvoir implicit coding of women as white and bourgeois, all while Black people, proletarians, Jewish people, and Indigenous people are assumed to be male.
 - Also not because of nature.
   - Even sexual reproductive does not require a binary system of sex categorization (pp. 21ff).
