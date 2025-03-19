@@ -28,14 +28,14 @@ Some examples:
 
 Nomenclature: Disorders of Sex Development (DSD) vs. variations/differences
 
-### The traditional model for Managing intersex newborns
+### The Traditional Model for Managing Intersex Newborns
 
 - Sex is a clear-cut division between males and females.
 - Those born with “ambiguous” genitalia have a “true” sex waiting to be discovered by science/medicine.
 - It is medically urgent that the ambiguity be surgically “ﬁxed” early on.
 - While some physicians now support some transparency, this is a very recent and very limited development.
 
-### Why the urgency?
+### Why the Urgency?
 
 - *Parents*: Suzanne Kessler reports that “the physicians [that she interviewed] acknowledge that diagnosis, gender assignment, and genital reconstruction cannot be delayed for as long as two years, since a clear gender assignment and correctly formed genitals will determine the kind of interactions parents will have with the child. The geneticist argued that when parents ‘change a diaper and see genitalia that don’t mean much in terms of gender assignment, I think it prolongs the negative response to the baby. . . . If you have clitoral enlargement that is so extraordinary that the parents can’t distinguish between male and female, it is sometimes helpful to re-duce that somewhat so that the parent views the child as female.’ Another physician concurred: parents ‘need to go home and do their job as child rearers with it very clear whether it’s a boy or a girl.’”
 - *Gender identity development*: According to Anne Fausto-Sterling, many physicians “emphasiz[e] that nuanced scientiﬁc understanding of anatomical sex is incompatible with a patient’s need for clear-cut gender identity.”
@@ -51,7 +51,7 @@ Why not full transparency? Pp. 64–65.
 - Parents are usually told that their child has “underdeveloped” genitalia, as if all that needs to be done is to let the genitalia grow just a little bit more and the child will reveal themself as either female or male.
 - Information is also usually (partially or fully) withheld from intersex children themselves, even when they grow up. “An intersex child assigned to become a girl, for instance, should understand any surgery she has undergone not as an operation that changed her into a girl, but as a procedure that removed parts that didn’t belong to her as a girl.”
 
-### So, how do you determine the “true” sex of an intersex newborn?
+### So, How Do You Determine the “True” Sex of an Intersex Newborn?
 
 Patricia Donahoe’s recommendations are highly illustrative: “Genetic females should always be raised as females, preserving reproductive potential, regardless of how severely the patients are virilized. In the genetic male, however, the gender of assignment is based on the infant’s anatomy, predominantly the size of the phallus.”
 
@@ -61,7 +61,7 @@ Patricia Donahoe’s recommendations are highly illustrative: “Genetic females
     - “Young boys should be able to pee standing up and thus to ‘feel normal’ during little-boy peeing contests; adult men, meanwhile, need a penis big enough for vaginal penetration during sexual intercourse.” 
   - But if their genital is not large enough for a penis but too large for a clitoris, clitoral reduction (or even removal) should be performed.
 
-### Some more recent developments
+### Some More Recent Developments
 
 - In July 2020, Lurie’s Children Hospital in Chicago became the first U.S. hospital to apologize for performing intersex surgeries.
 - A few months later, Boston Children’s Hospital also announced that it “will not perform clitoroplasty or vaginoplasty in patients who are too young to participate in a meaningful discussion of the implications of these surgeries, unless anatomical differences threaten the physical health of the child.”
