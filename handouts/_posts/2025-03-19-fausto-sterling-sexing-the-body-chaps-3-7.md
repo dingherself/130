@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anne Fausto-Sterling, <em>Sexing the Body</em>, chaps. 3, 7
-module: "Love"
+module: "Gender"
 ---
 
 ## In-Class Activity
