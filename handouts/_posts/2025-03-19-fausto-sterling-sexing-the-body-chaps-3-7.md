@@ -42,14 +42,14 @@ Nomenclature: Disorders of Sex Development (DSD) vs. intersex variations
   - Luckily, on John Money’s extraordinarily influential theory, gender identity is highly malleable during early childhood. So, the theory goes, if surgical interventions are completed in time, intersex children will come to develop gender identities that align with the sex and genitalia they were surgically assigned.
   - But Money’s theory has been debunked by David Reimer’s case.
 - *Sexual orientation development*: With successful surgical interventions, intersex children will develop “appropriate” partner and sexual preference (i.e., PIVI).
-
 - *Trauma of castration*: Kessler writes, “Money suggests that if reduction of phallic tissue were delayed beyond the neonatal period, the infant would have traumatic memories of having been castrated. . . . Although physicians speculate about the possible trauma of an early childhood ‘castration’ memory, there is no corresponding concern that vaginal reconstructive surgery delayed beyond the neonatal period is traumatic.”
 
-
-Why not full transparency? Pp. 64–65.
+### Why not Full Transparency?
 
 - Parents are usually told that their child has “underdeveloped” genitalia, as if all that needs to be done is to let the genitalia grow just a little bit more and the child will reveal themself as either female or male.
 - Information is also usually (partially or fully) withheld from intersex children themselves, even when they grow up. “An intersex child assigned to become a girl, for instance, should understand any surgery she has undergone not as an operation that changed her into a girl, but as a procedure that removed parts that didn’t belong to her as a girl.”
+
+Why? Pp. 64–65.
 
 ### So, How Do You Determine the “True” Sex of an Intersex Newborn?
 
