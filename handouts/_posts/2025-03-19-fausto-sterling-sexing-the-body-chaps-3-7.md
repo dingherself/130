@@ -26,7 +26,7 @@ Some examples:
 - … and more
 - PCOS? (debated)
 
-Nomenclature: Disorders of Sex Development (DSD) vs. variations/differences
+Nomenclature: Disorders of Sex Development (DSD) vs. intersex variations
 
 ### The Traditional Model for Managing Intersex Newborns
 
