@@ -98,3 +98,8 @@ Patricia Donahoe’s recommendations are highly illustrative: “Genetic females
 - The “bisexual” hormones view: “[In the 1930s,] Korenchevsky and co-workers referred to such hormones as ‘’bisexual’ and proposed to group both androgens and estrogens according to this property. Only one hormone (progesterone—from the corpus luteum) could they envision as purely male or female. They designated a second group as ‘partially bisexual,’ some with chiefly male properties, others with predominantly female ones. Finally, they proposed the existence of ‘true bisexual hormones,’ ones that cause a return to ‘the normal condition of all the atrophied sex organs . . . to the same degree in both male and female rats.’ Testosterone belonged to this group.”
 
 Fausto-Sterling’s question: “Do sex hormones really exist?” (In what sense/way?)
+
+Broader question: how should we conceptualize the biology of sex in a way that recognizes its complexity and messiness?
+
+- [One fairly dated attempt](https://static.scientificamerican.com/sciam/cache/file/164FE5CE-FBA6-493F-B9EA84B04830354E_source.jpg)
+- [“Advanced biology” meme](https://www.reddit.com/r/TheRightCantMeme/comments/10j1p6o/basic_biology_mfs_when_i_show_them_advanced/)
