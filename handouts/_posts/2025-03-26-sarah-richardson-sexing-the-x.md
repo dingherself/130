@@ -38,9 +38,9 @@ module: "Gender"
 
 1. The gendering of objects of biological study shapes our perceived *scientific knowledge*
 2. Feminist analyses of science have revealed synecdochic (part for whole) errors.
-   a. The world of human bodies is divided into two kinds by sex
-   b. Additional properties are culturally attributed to these bodies, and  
-   c. The same properties that have been ascribed to the whole are then attributes to the subcategories of, or processes associated with, these bodies. (p 910).  
+   1. The world of human bodies is divided into two kinds by sex
+   2. Additional properties are culturally attributed to these bodies, and
+   3. The same properties that have been ascribed to the whole are then attributes to the subcategories of, or processes associated with, these bodies. (p 910).
 3. The X carries important genes involved in spermatogenesis, but plays no special role in “female” sexual development (these genes are located elsewhere).
 4. Most men also carry an X, and because most men carry only one copy of X, they are much more susceptible to X-linked recessive diseases.
 5. The X is not female-determining; the Y is responsible primarily for **initiating** male sexual development.
