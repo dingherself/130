@@ -82,5 +82,5 @@ Also required: two letters.
 *Jigsaw*: Your group will be the expert on one of Ashley’s three arguments against the gatekeeping model (what is the argument? what do you think of it?); I’ll then ask you to explain the argument to your classmates.
 
 1. Argument from epistemic authority
-2. Argument from “the diversity of trans embodiment”
+2. Argument from diversity of trans embodiment
 3. Argument from double standards
