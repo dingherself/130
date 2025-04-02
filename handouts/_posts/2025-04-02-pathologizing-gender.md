@@ -63,21 +63,23 @@ Also required: two letters.
 - Recall both the documentary and the readings assigned for today: What would you say is the relationship between the medical community and trans people?
 - What was the significance of Agnes’ case for this relationship?
 
-## The Medical Management of Trans People
+## The Gatekeeping Model of Trans Care
 
 - As a mental disorder: trans people are fundamentally confused.
 - Agenes’ case: trans people are manipulative, and will do anything to get medical care.
 - Goal is *maintenance* of the dominant gender/sexuality system:
-  - Attractive/passing (racialized): if you are not wearing a dress to your appointment, are you even serious about being a woman?
-  - Heterosexual par excellence (for trans women: no interest whatsoever in masturbation or sex with women, only heterosexual penetration from a man)
-  - Perfect performance of gender (“role appropriateness”)
-  - Plausibility & invisibility (forced fabrication of non-trans personal history)
+  - Attractive/passing (racialized): if you don’t show up to your appointment wearing a dress and looking pretty, are you even serious about being a woman?
+  - Heterosexual par excellence: for trans women, no interest whatsoever in masturbation or sex with women, only heterosexual penetration from a man.
+  - Perfect performance of gender: “role appropriateness.”
+  - Plausibility & invisibility: forced fabrication of non-trans personal history.
 - **Gatekeeping**: access to medical care is used as *both* carrot *and* stick.
-  - By requiring trans patients to be assessed and referred for gender dysphoria, doctors play the role of *gatekeepers*, whose job is to determine whether a patient is *really* transgender and should be allowed to access gender-affirming medical care.
-- Trans people’s response: playing into doctors’ expectations in order to access medical care.
+  - By requiring trans patients to be assessed and referred for gender dysphoria, doctors play the role of *gatekeepers*, whose job is to determine whether a patient is *really* trans and should be allowed to access gender-affirming medical care.
+  - Trans people’s response: playing into doctors’ expectations in order to access medical care.
 - Weird, masculinized playing God in the surgeon’s power to create manhood/womanhood *itself*.
 
-## Ashley’s Arguments against the Gatekeeping Model
+## Florence Ashley’s Arguments against the Gatekeeping Model
+
+*Jigsaw*: Your group will be the expert on one of Ashley’s three arguments against the gatekeeping model (what is the argument? what do you think of it?); I’ll then ask you to explain the argument to your classmates.
 
 1. Argument from epistemic authority
 2. Argument from “the diversity of trans embodiment”
