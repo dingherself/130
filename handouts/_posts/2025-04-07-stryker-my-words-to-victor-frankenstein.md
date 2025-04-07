@@ -32,16 +32,53 @@ Working as a group, please identify the analogies and disanalogies that Stryker 
 
 ## Reclaiming monstrosity
 
-| Frankenstein’s monster                                       | The transsexual                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Created by science but more than what the creator intends them to be | Created by science but more than what the creator intends them to be |
-| Has no language -> Learns language to claim subjectivity     | Has no subjectivity -> Appropriates language to claim subjectivity |
-| Knowledge of their creation ignites a rage against its creator | Knowledge of their creation ignites a rage against its creator |
-| Cannot exist authentically as themself in this world         | Cannot exist authentically as themself in this world         |
-| Not human                                                    | Rejects humanism, identifies with Frankenstein’s monster, embraces animal/human/technology as one |
-| Their very creation and existence are experienced as a violent violation | Their very creation and existence are experienced as a violent violation |
-| Rage stems from failure to satisfy dominant norms of human embodiment | Rage stems from failure to satisfy dominant norms of gendered embodiment |
-| Confronts and eventually kills its creator                   | ??                                                           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:inherit;border-style:solid;border-width:1px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-p9zu{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-7vkn">Frankenstein’s monster</th>
+    <th class="tg-7vkn">The transsexual</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-p9zu">Created by science but more than what the creator intends them to be</td>
+    <td class="tg-p9zu">Created by science but more than what the creator intends them to be</td>
+  </tr>
+  <tr>
+    <td class="tg-p9zu">Has no language -&gt; Learns language to claim subjectivity</td>
+    <td class="tg-p9zu">Has no subjectivity -&gt; Appropriates language to claim subjectivity</td>
+  </tr>
+  <tr>
+    <td class="tg-p9zu">Knowledge of their creation ignites a rage against its creator</td>
+    <td class="tg-p9zu">Knowledge of their creation ignites a rage against its creator</td>
+  </tr>
+  <tr>
+    <td class="tg-p9zu">Cannot exist authentically as themself in this world</td>
+    <td class="tg-p9zu">Cannot exist authentically as themself in this world</td>
+  </tr>
+  <tr>
+    <td class="tg-p9zu">Not human</td>
+    <td class="tg-p9zu">Rejects humanism, identifies with Frankenstein’s monster, embraces animal/human/technology as one</td>
+  </tr>
+  <tr>
+    <td class="tg-p9zu">Their very creation and existence are experienced as a violent violation</td>
+    <td class="tg-p9zu">Their very creation and existence are experienced as a violent violation</td>
+  </tr>
+  <tr>
+    <td class="tg-p9zu">Rage stems from failure to satisfy dominant norms of human embodiment</td>
+    <td class="tg-p9zu">Rage stems from failure to satisfy dominant norms of gendered embodiment</td>
+  </tr>
+  <tr>
+    <td class="tg-p9zu">Confronts and eventually kills its creator</td>
+    <td class="tg-p9zu">??</td>
+  </tr>
+</tbody></table>
 
 **Reclaiming**: “Just as the words ‘dyke,’ ‘fag,’ ‘queer,’ ‘slut,’ and ‘whore’ have been reclaimed, respectively, by lesbians and gay men, by anti-assimilationist sexual minorities, by women who pursue erotic pleasure, and by sex industry workers, words like ‘creature,’ ‘monster,’ and ‘unnatural’ need to be reclaimed by the transgendered. By embracing and accepting them, even piling one on top of another, we may dispel their ability to harm us. . . . The affront you humans take at being called a ‘creature’ results from the threat the term poses to your status as ‘lords of creation,’ beings elevated above mere material existence” (240).
 
