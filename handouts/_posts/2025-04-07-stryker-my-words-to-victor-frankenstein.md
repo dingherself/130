@@ -40,10 +40,10 @@ Working as a group, please identify the analogies and disanalogies that Stryker 
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-p9zu{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+<table class="tg" style="margin-bottom: 1em;"><thead>
   <tr>
-    <th class="tg-7vkn">Frankenstein’s monster</th>
-    <th class="tg-7vkn">The transsexual</th>
+    <th class="tg-7vkn"><strong>Frankenstein’s monster</strong></th>
+    <th class="tg-7vkn"><strong>The transsexual</strong></th>
   </tr></thead>
 <tbody>
   <tr>
