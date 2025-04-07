@@ -4,7 +4,7 @@ title: "Pathologizing Gender"
 module: "Gender"
 ---
 
-## *Diagnostic and Statistical Manual of Mental Disorders*, 5th Edition, Text Revision (DSM-5-TR) (2022)
+## *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., Text Revision (DSM-5-TR) (2022)
 
 Previously: gender identity disorder (DSM-4); transsexualism (DSM-3).
 
@@ -36,9 +36,9 @@ C. The fetish objects are not limited to articles of clothing used in cross-dres
 
 What’s in important part at stake here is access to medical care.
 
-## *Standards of Care for the Health of Transsexual, Transgender, and Gender-Nonconforming People*, 7th Version (SOC 7) (2012)
+## *Standards of Care for the Health of Transsexual, Transgender, and Gender-Nonconforming People*, 7th ver. (SOC 7) (2012)
 
-### Criteria for Initiating Hormone Therapy
+### Criteria for initiating hormone therapy
 
 1. Persistent, well-documented gender dysphoria;
 2. Capacity to make a fully informed decision and to give consent for treatment;
@@ -47,7 +47,7 @@ What’s in important part at stake here is access to medical care.
 
 Also required: one letter & 3 continuous months of “real-life experience” (ambiguous under SOC 7; removed in SOC 8).
 
-### Criteria for Bottom Surgery
+### Criteria for bottom surgery
 
 1. Persistent, well documented gender dysphoria;
 2. Capacity to make a fully informed decision and to give consent for treatment;
@@ -58,12 +58,12 @@ Also required: one letter & 3 continuous months of “real-life experience” (a
 
 Also required: two letters.
 
-## In-Class Activity
+## In-class activity
 
 - Recall both the documentary and the readings assigned for today: What would you say is the relationship between the medical community and trans people?
 - What was the significance of Agnes’ case for this relationship?
 
-## The Gatekeeping Model of Trans Care
+## The gatekeeping model of trans healthcare
 
 - As a mental disorder: trans people are fundamentally confused.
 - Agenes’ case: trans people are manipulative, and will do anything to get medical care.
@@ -77,10 +77,39 @@ Also required: two letters.
   - Trans people’s response: playing into doctors’ expectations in order to access medical care.
 - Weird, masculinized playing God in the surgeon’s power to create manhood/womanhood *itself*.
 
-## Florence Ashley’s Arguments against the Gatekeeping Model
+## Florence Ashley’s arguments against the gatekeeping model
 
-*Jigsaw*: Your group will be the expert on one of Ashley’s three arguments against the gatekeeping model (what is the argument? what do you think of it?); I’ll then ask you to explain the argument to your classmates.
+*Jigsaw*: Your group will be the expert on one of Ashley’s three arguments against the gatekeeping model (what’s the argument? what do you think of it?); I’ll then ask you to explain the argument to your classmates.
 
 1. Argument from epistemic authority
 2. Argument from diversity of trans embodiment
 3. Argument from double standards
+
+**Informed consent**: An alternative model of trans healthcare which has been practiced by a growing number of hormone providers in North America, especially university and large-volume clinics.
+
+-  Under the informed consent model, no psychiatric assessment is required for access to gender-affirming hormones; instead, the patient’s informed consent is taken to be sufficient.
+- In general, the informed consent model is *not* extended to gender-affirming surgeries.
+
+### Argument from epistemic authority
+
+The usual version: We are epistemic authorities with respect to our own genders. -> A relevant kind of deference is owed.
+
+- Challenge: Are we epistemic authorities with respect to our own genders?
+
+Ashley’s version: Even if we are not, we still have epistemic authority over *psychological experiences of gender dysphoria*.
+
+- Still fallible?
+- Incompatible with their second argument?
+
+### Argument from diversity of trans embodiment
+
+The idea here is that many trans people seek transition-related care not to alleviate gender dysphoria, but for gender euphoria and gender creativity.
+
+- “Creative transfiguration sees the body as a gendered art piece that can be made ours through transition-related interventions.”
+- Trivializes/misdiagnoses the harm of gatekeeping?
+
+### Argument from double standards
+
+Abortion and trans care are both “frequently justified by reference to personal autonomy and are frequently but not always motivated by distress, and yet neither pregnancy nor being trans is illness. I invite physicians to answer this question for themselves and inquire into how double standards in clinical practices may reflect an unconscious hostility towards trans lives and experiences” (481–82).
+
+- Leveling up vs. leveling down?
