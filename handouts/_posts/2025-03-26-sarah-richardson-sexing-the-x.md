@@ -29,7 +29,7 @@ module: "Gender"
 - **The “greater male variation theory”:** “While females enjoy the security of a second X, it dulls their potential for extraordinariness. Males are superior where it counts: intelligence.”
 - **X mosaicism:** a condition where an individual has cells with different chromosome complements, including variations in the sex chromosomes (X and Y), arising from errors in cell division during early development. (p 920-1)
 - **The Barr body:** in cells with two X’s, one becomes inactive early on in embryonic development. (p 914)
-  1. In those with XX chromosomes, about half of their cells express the material X and the other half the paternal X.
+  1. In those with XX chromosomes, about half of their cells express the maternal X and the other half the paternal X.
   2. This genetic mosaicism reinforces social “conceptions of women as more mysterious, contradictory, complicated, emotional, or changeable.”
 
 **We see these hypotheses at work in speculative scientific conceptions of femaleness and gender difference.** 
