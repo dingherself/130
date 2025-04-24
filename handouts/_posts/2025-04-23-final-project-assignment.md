@@ -46,7 +46,7 @@ Please choose ***<u>one</u>*** of the following options for your final project.
 
 - Your aim is to persuade your audience of a single point in a snappy, accessible manner.
 - Your argument should engage with concepts, ideas, and/or views from the class.
-- Op-eds are typically very short but highly polished. Think carefully about your audience, title, thesis, structure, opening, and ending. Try to make sure that every paragraph/sentence/word in some way contributes to your overall argument.
+- Be both succinct and polished. Think carefully about your audience, title, thesis, structure, opening, and ending. Try to make sure that every paragraph/sentence/word in some way contributes to your overall argument.
 
 The following are some models representing a diverse range of styles, formats, and lengths.
 
