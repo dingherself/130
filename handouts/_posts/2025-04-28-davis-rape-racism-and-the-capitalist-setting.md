@@ -10,7 +10,7 @@ module: "Sex"
 
 *The second-wave feminist response*: rape is a form of male domination over women; it is a [sexual vs. violent] offense committed by men as a gender against woman as a gender.
 
-- The biological version (Brownmiller): The penis is to blame.
+- The biological version (Olds): The penis is to blame.
 - The political version (MacKinnon): Heterosexuality (as a political institution) is to blame.
 
 **Davis’s intervention**: rape is as much of a symptom of heterosexist patriarchy as it is a symptom of racism and capitalism; these systems of domination are all intertwined.
