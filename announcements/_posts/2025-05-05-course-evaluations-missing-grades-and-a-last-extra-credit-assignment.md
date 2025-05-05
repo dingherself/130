@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcements: Course Evaluations, Missing Grades, and a Last Extra Credit Assignment"
+title:  "Course Evaluations, Missing Grades, and a Last Extra Credit Assignment"
 ---
 
 Dear class,
