@@ -34,7 +34,7 @@ For Rich, “when we look hard and clearly at the extent and elaboration of meas
 
 ## The Idea of a Lesbian Continuum
 
-“I mean the term *lesbian continuum* to include a range-through each woman's life and throughout history---0f woman-identified experience, not simply the fact that a woman has had or consciously desired genital sexual experience with another woman.” (p. 648)
+“I mean the term *lesbian continuum* to include a range—through each woman's life and throughout history—of woman-identified experience, not simply the fact that a woman has had or consciously desired genital sexual experience with another woman.” (p. 648)
 
 - Covers “many more forms of primary intensity between and among women, including the sharing of a rich inner life, the bonding against male tyranny, the giving and receiving of practical and political support,” etc.
 - Not an issue of sexual identity: one can be on the lesbian continuum without identifying as a lesbian.
