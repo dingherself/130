@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jane Ward, <em>The Tragedy of Heterosexuality</em>"
+title: Jane Ward, <em>The Tragedy of Heterosexuality</em>
 module: "Sex"
 ---
 
